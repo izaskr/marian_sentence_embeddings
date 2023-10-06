@@ -1,0 +1,2555 @@
+ItemID,Condition,Word,WordID,SurprisalGPT2,TargetRegion
+3,a_exp,Gary's,1,16.43629657537646,gets sunburned
+3,a_exp, toddler,2,10.700700759887695,gets sunburned
+3,a_exp, Leah,3,10.418824195861816,gets sunburned
+3,a_exp, loves,4,7.394001007080078,gets sunburned
+3,a_exp, playing,5,3.512939453125,gets sunburned
+3,a_exp, outside,6,3.408641815185547,gets sunburned
+3,a_exp, in,7,2.8271331787109375,gets sunburned
+3,a_exp, summer,8,6.429089546203613,gets sunburned
+3,a_exp,.,9,1.9820306301116943,gets sunburned
+3,a_exp, Leah,10,3.6841139793395996,gets sunburned
+3,a_exp, always,11,5.232641220092773,gets sunburned
+3,a_exp, forgets,12,6.9244821183383465,gets sunburned
+3,a_exp, to,13,1.2586241960525513,gets sunburned
+3,a_exp, put,14,2.982497215270996,gets sunburned
+3,a_exp, on,15,1.271968960762024,gets sunburned
+3,a_exp, sunscreen,16,2.579798698425293,gets sunburned
+3,a_exp,.,17,1.568081021308899,gets sunburned
+3,a_exp, Therefore,18,8.067388534545898,gets sunburned
+3,a_exp,",",19,0.3277929127216339,gets sunburned
+3,a_exp, she,20,1.1662678718566895,gets sunburned
+3,a_exp, gets,21,3.9005916118621826,gets sunburned
+3,a_exp, sunburned,22,5.509947657585144,gets sunburned
+3,a_exp, all,23,3.3707802295684814,gets sunburned
+3,a_exp, the,24,0.19854968786239624,gets sunburned
+3,a_exp, time,25,0.008877689018845558,gets sunburned
+3,a_exp,.,26,0.5373235940933228,gets sunburned
+3,a_imp,Gary's,1,16.43629657537646,gets sunburned
+3,a_imp, toddler,2,10.700700759887695,gets sunburned
+3,a_imp, Leah,3,10.418824195861816,gets sunburned
+3,a_imp, loves,4,7.394001007080078,gets sunburned
+3,a_imp, playing,5,3.512939453125,gets sunburned
+3,a_imp, outside,6,3.408641815185547,gets sunburned
+3,a_imp, in,7,2.8271331787109375,gets sunburned
+3,a_imp, summer,8,6.429089546203613,gets sunburned
+3,a_imp,.,9,1.9820306301116943,gets sunburned
+3,a_imp, Leah,10,3.6841139793395996,gets sunburned
+3,a_imp, always,11,5.232641220092773,gets sunburned
+3,a_imp, forgets,12,6.9244821183383465,gets sunburned
+3,a_imp, to,13,1.2586241960525513,gets sunburned
+3,a_imp, put,14,2.982497215270996,gets sunburned
+3,a_imp, on,15,1.271968960762024,gets sunburned
+3,a_imp, sunscreen,16,2.579798698425293,gets sunburned
+3,a_imp,.,17,1.568081021308899,gets sunburned
+3,a_imp, She,18,1.8005881309509277,gets sunburned
+3,a_imp, gets,19,4.162367343902588,gets sunburned
+3,a_imp, sunburned,20,6.038288593292236,gets sunburned
+3,a_imp, all,21,3.3713624477386475,gets sunburned
+3,a_imp, the,22,0.11502151936292648,gets sunburned
+3,a_imp, time,23,0.008688622154295444,gets sunburned
+3,a_imp,.,24,0.9032124280929565,gets sunburned
+3,b_exp,Gary's,1,16.43629657537646,gets sunburned
+3,b_exp, toddler,2,10.700700759887695,gets sunburned
+3,b_exp, Leah,3,10.418824195861816,gets sunburned
+3,b_exp, loves,4,7.394001007080078,gets sunburned
+3,b_exp, to,5,1.682418704032898,gets sunburned
+3,b_exp, be,6,4.065162181854248,gets sunburned
+3,b_exp, in,7,3.345824956893921,gets sunburned
+3,b_exp, the,8,1.1296323537826538,gets sunburned
+3,b_exp, garden,9,5.371102809906006,gets sunburned
+3,b_exp, in,10,5.016628265380859,gets sunburned
+3,b_exp, summer,11,6.257510185241699,gets sunburned
+3,b_exp,.,12,1.7877728939056396,gets sunburned
+3,b_exp, Leah,13,4.000007152557373,gets sunburned
+3,b_exp, is,14,2.117267370223999,gets sunburned
+3,b_exp, always,15,3.59546160697937,gets sunburned
+3,b_exp, playing,16,3.4390134811401367,gets sunburned
+3,b_exp, outside,17,2.2585036754608154,gets sunburned
+3,b_exp,.,18,2.555832624435425,gets sunburned
+3,b_exp, Therefore,19,8.724357604980469,gets sunburned
+3,b_exp,",",20,0.32067030668258667,gets sunburned
+3,b_exp, she,21,1.2612991333007812,gets sunburned
+3,b_exp, gets,22,4.254003047943115,gets sunburned
+3,b_exp, sunburned,23,10.259656131267548,gets sunburned
+3,b_exp, all,24,3.9245059490203857,gets sunburned
+3,b_exp, the,25,0.22667638957500458,gets sunburned
+3,b_exp, time,26,0.014684688299894333,gets sunburned
+3,b_exp,.,27,0.66949063539505,gets sunburned
+3,b_imp,Gary's,1,16.43629657537646,gets sunburned
+3,b_imp, toddler,2,10.700700759887695,gets sunburned
+3,b_imp, Leah,3,10.418824195861816,gets sunburned
+3,b_imp, loves,4,7.394001007080078,gets sunburned
+3,b_imp, to,5,1.682418704032898,gets sunburned
+3,b_imp, be,6,4.065162181854248,gets sunburned
+3,b_imp, in,7,3.345824956893921,gets sunburned
+3,b_imp, the,8,1.1296323537826538,gets sunburned
+3,b_imp, garden,9,5.371102809906006,gets sunburned
+3,b_imp, in,10,5.016628265380859,gets sunburned
+3,b_imp, summer,11,6.257510185241699,gets sunburned
+3,b_imp,.,12,1.7877728939056396,gets sunburned
+3,b_imp, Leah,13,4.000007152557373,gets sunburned
+3,b_imp, is,14,2.117267370223999,gets sunburned
+3,b_imp, always,15,3.59546160697937,gets sunburned
+3,b_imp, playing,16,3.4390134811401367,gets sunburned
+3,b_imp, outside,17,2.2585036754608154,gets sunburned
+3,b_imp,.,18,2.555832624435425,gets sunburned
+3,b_imp, She,19,1.5334089994430542,gets sunburned
+3,b_imp, gets,20,4.657288074493408,gets sunburned
+3,b_imp, sunburned,21,9.08576488494873,gets sunburned
+3,b_imp, all,22,3.7874302864074707,gets sunburned
+3,b_imp, the,23,0.1676185429096222,gets sunburned
+3,b_imp, time,24,0.012634824961423874,gets sunburned
+3,b_imp,.,25,1.0278706550598145,gets sunburned
+4,a_exp,George,1,10.177924398237888,started a diet
+4,a_exp, was,2,5.058541297912598,started a diet
+4,a_exp, discussing,3,8.755599975585938,started a diet
+4,a_exp, food,4,8.528665542602539,started a diet
+4,a_exp, habits,5,6.743634223937988,started a diet
+4,a_exp, with,6,1.325107455253601,started a diet
+4,a_exp, his,7,1.7048075199127197,started a diet
+4,a_exp, cousin,8,4.3773932456970215,started a diet
+4,a_exp, Tracy,9,8.396445274353027,started a diet
+4,a_exp,.,10,1.8543908596038818,started a diet
+4,a_exp, Tracy,11,1.9598547220230103,started a diet
+4,a_exp, had,12,2.5429317951202393,started a diet
+4,a_exp, decided,13,5.423603057861328,started a diet
+4,a_exp, to,14,0.596824049949646,started a diet
+4,a_exp, lose,15,6.623154163360596,started a diet
+4,a_exp, weight,16,0.19132082164287567,started a diet
+4,a_exp,.,17,2.7025527954101562,started a diet
+4,a_exp, Therefore,18,7.105804920196533,started a diet
+4,a_exp,",",19,0.25659382343292236,started a diet
+4,a_exp, she,20,1.3019613027572632,started a diet
+4,a_exp, started,21,3.631411552429199,started a diet
+4,a_exp, a,22,3.4146814346313477,started a diet
+4,a_exp, diet,23,1.9383540153503418,started a diet
+4,a_exp, last,24,9.772313117980957,started a diet
+4,a_exp, month,25,2.5249197483062744,started a diet
+4,a_exp,.,26,0.8746247887611389,started a diet
+4,a_imp,George,1,10.177924398237888,started a diet
+4,a_imp, was,2,5.058541297912598,started a diet
+4,a_imp, discussing,3,8.755599975585938,started a diet
+4,a_imp, food,4,8.528665542602539,started a diet
+4,a_imp, habits,5,6.743634223937988,started a diet
+4,a_imp, with,6,1.325107455253601,started a diet
+4,a_imp, his,7,1.7048075199127197,started a diet
+4,a_imp, cousin,8,4.3773932456970215,started a diet
+4,a_imp, Tracy,9,8.396445274353027,started a diet
+4,a_imp,.,10,1.8543908596038818,started a diet
+4,a_imp, Tracy,11,1.9598547220230103,started a diet
+4,a_imp, had,12,2.5429317951202393,started a diet
+4,a_imp, decided,13,5.423603057861328,started a diet
+4,a_imp, to,14,0.596824049949646,started a diet
+4,a_imp, lose,15,6.623154163360596,started a diet
+4,a_imp, weight,16,0.19132082164287567,started a diet
+4,a_imp,.,17,2.7025527954101562,started a diet
+4,a_imp, She,18,2.104238986968994,started a diet
+4,a_imp, started,19,4.563124656677246,started a diet
+4,a_imp, a,20,4.00709867477417,started a diet
+4,a_imp, diet,21,2.409687042236328,started a diet
+4,a_imp, last,22,8.896080017089844,started a diet
+4,a_imp, month,23,2.4195590019226074,started a diet
+4,a_imp,.,24,1.4772309064865112,started a diet
+4,b_exp,George,1,10.177924398237888,started a diet
+4,b_exp, was,2,5.058541297912598,started a diet
+4,b_exp, discussing,3,8.755599975585938,started a diet
+4,b_exp, lifestyle,4,11.702066421508789,started a diet
+4,b_exp, matters,5,4.792263507843018,started a diet
+4,b_exp, with,6,0.7777130603790283,started a diet
+4,b_exp, his,7,1.820587396621704,started a diet
+4,b_exp, cousin,8,4.519016742706299,started a diet
+4,b_exp, Tracy,9,8.298211097717285,started a diet
+4,b_exp,.,10,2.0021557807922363,started a diet
+4,b_exp, Tracy,11,2.353687047958374,started a diet
+4,b_exp, was,12,1.9271944761276245,started a diet
+4,b_exp, diagnosed,13,6.709561824798584,started a diet
+4,b_exp, with,14,0.0713614672422409,started a diet
+4,b_exp, diabetes,15,4.111313819885254,started a diet
+4,b_exp, recently,16,6.9519805908203125,started a diet
+4,b_exp,.,17,1.5938947200775146,started a diet
+4,b_exp, Therefore,18,7.6859893798828125,started a diet
+4,b_exp,",",19,0.28153717517852783,started a diet
+4,b_exp, she,20,1.9757251739501953,started a diet
+4,b_exp, started,21,5.04783821105957,started a diet
+4,b_exp, a,22,2.9595658779144287,started a diet
+4,b_exp, diet,23,2.163264036178589,started a diet
+4,b_exp, last,24,9.92136287689209,started a diet
+4,b_exp, month,25,2.3629961013793945,started a diet
+4,b_exp,.,26,0.9468069076538086,started a diet
+4,b_imp,George,1,10.177924398237888,started a diet
+4,b_imp, was,2,5.058541297912598,started a diet
+4,b_imp, discussing,3,8.755599975585938,started a diet
+4,b_imp, lifestyle,4,11.702066421508789,started a diet
+4,b_imp, matters,5,4.792263507843018,started a diet
+4,b_imp, with,6,0.7777130603790283,started a diet
+4,b_imp, his,7,1.820587396621704,started a diet
+4,b_imp, cousin,8,4.519016742706299,started a diet
+4,b_imp, Tracy,9,8.298211097717285,started a diet
+4,b_imp,.,10,2.0021557807922363,started a diet
+4,b_imp, Tracy,11,2.353687047958374,started a diet
+4,b_imp, was,12,1.9271944761276245,started a diet
+4,b_imp, diagnosed,13,6.709561824798584,started a diet
+4,b_imp, with,14,0.0713614672422409,started a diet
+4,b_imp, diabetes,15,4.111313819885254,started a diet
+4,b_imp, recently,16,6.9519805908203125,started a diet
+4,b_imp,.,17,1.5938947200775146,started a diet
+4,b_imp, She,18,2.3475136756896973,started a diet
+4,b_imp, started,19,5.181247711181641,started a diet
+4,b_imp, a,20,3.310175895690918,started a diet
+4,b_imp, diet,21,3.0898029804229736,started a diet
+4,b_imp, last,22,9.09865951538086,started a diet
+4,b_imp, month,23,2.272174835205078,started a diet
+4,b_imp,.,24,1.438321590423584,started a diet
+5,a_exp,Finn,1,17.777910019120178,felt chilly
+5,a_exp, and,2,4.241534233093262,felt chilly
+5,a_exp, Daisy,3,9.488304138183594,felt chilly
+5,a_exp, were,4,3.861574411392212,felt chilly
+5,a_exp, taking,5,6.378745079040527,felt chilly
+5,a_exp, a,6,1.9001963138580322,felt chilly
+5,a_exp, walk,7,2.7136449813842773,felt chilly
+5,a_exp, on,8,2.9717159271240234,felt chilly
+5,a_exp, the,9,0.9153850674629211,felt chilly
+5,a_exp, beach,10,1.6640924215316772,felt chilly
+5,a_exp, early,11,7.113043308258057,felt chilly
+5,a_exp, in,12,1.7842695713043213,felt chilly
+5,a_exp, the,13,0.09512823075056076,felt chilly
+5,a_exp, morning,14,0.37496718764305115,felt chilly
+5,a_exp,.,15,1.1265881061553955,felt chilly
+5,a_exp, Daisy,16,3.401958465576172,felt chilly
+5,a_exp, was,17,1.8451600074768066,felt chilly
+5,a_exp, wearing,18,3.631544828414917,felt chilly
+5,a_exp, a,19,0.5939905047416687,felt chilly
+5,a_exp, thin,20,7.774738311767578,felt chilly
+5,a_exp, top,21,4.770092010498047,felt chilly
+5,a_exp,.,22,3.4915270805358887,felt chilly
+5,a_exp, Therefore,23,9.788019180297852,felt chilly
+5,a_exp,",",24,0.4088665544986725,felt chilly
+5,a_exp, she,25,1.0654449462890625,felt chilly
+5,a_exp, felt,26,4.573472023010254,felt chilly
+5,a_exp, chilly,27,9.035089492797852,felt chilly
+5,a_exp, at,28,4.139570713043213,felt chilly
+5,a_exp, first,29,1.507081151008606,felt chilly
+5,a_exp,.,30,0.8763056993484497,felt chilly
+5,a_imp,Finn,1,17.777910019120178,felt chilly
+5,a_imp, and,2,4.241534233093262,felt chilly
+5,a_imp, Daisy,3,9.488304138183594,felt chilly
+5,a_imp, were,4,3.861574411392212,felt chilly
+5,a_imp, taking,5,6.378745079040527,felt chilly
+5,a_imp, a,6,1.9001963138580322,felt chilly
+5,a_imp, walk,7,2.7136449813842773,felt chilly
+5,a_imp, on,8,2.9717159271240234,felt chilly
+5,a_imp, the,9,0.9153850674629211,felt chilly
+5,a_imp, beach,10,1.6640924215316772,felt chilly
+5,a_imp, early,11,7.113043308258057,felt chilly
+5,a_imp, in,12,1.7842695713043213,felt chilly
+5,a_imp, the,13,0.09512823075056076,felt chilly
+5,a_imp, morning,14,0.37496718764305115,felt chilly
+5,a_imp,.,15,1.1265881061553955,felt chilly
+5,a_imp, Daisy,16,3.401958465576172,felt chilly
+5,a_imp, was,17,1.8451600074768066,felt chilly
+5,a_imp, wearing,18,3.631544828414917,felt chilly
+5,a_imp, a,19,0.5939905047416687,felt chilly
+5,a_imp, thin,20,7.774738311767578,felt chilly
+5,a_imp, top,21,4.770092010498047,felt chilly
+5,a_imp,.,22,3.4915270805358887,felt chilly
+5,a_imp, She,23,1.9288880825042725,felt chilly
+5,a_imp, felt,24,4.880852699279785,felt chilly
+5,a_imp, chilly,25,7.872312545776367,felt chilly
+5,a_imp, at,26,4.219308376312256,felt chilly
+5,a_imp, first,27,0.9352141618728638,felt chilly
+5,a_imp,.,28,1.8652931451797485,felt chilly
+5,b_exp,Finn,1,17.777910019120178,felt chilly
+5,b_exp, and,2,4.241534233093262,felt chilly
+5,b_exp, Daisy,3,9.488304138183594,felt chilly
+5,b_exp, were,4,3.861574411392212,felt chilly
+5,b_exp, taking,5,6.378745079040527,felt chilly
+5,b_exp, a,6,1.9001963138580322,felt chilly
+5,b_exp, walk,7,2.7136449813842773,felt chilly
+5,b_exp, on,8,2.9717159271240234,felt chilly
+5,b_exp, the,9,0.9153850674629211,felt chilly
+5,b_exp, beach,10,1.6640924215316772,felt chilly
+5,b_exp, early,11,7.113043308258057,felt chilly
+5,b_exp, in,12,1.7842695713043213,felt chilly
+5,b_exp, the,13,0.09512823075056076,felt chilly
+5,b_exp, morning,14,0.37496718764305115,felt chilly
+5,b_exp,.,15,1.1265881061553955,felt chilly
+5,b_exp, Daisy,16,3.401958465576172,felt chilly
+5,b_exp, was,17,1.8451600074768066,felt chilly
+5,b_exp, wearing,18,3.631544828414917,felt chilly
+5,b_exp, a,19,0.5939905047416687,felt chilly
+5,b_exp, summer,20,7.320156097412109,felt chilly
+5,b_exp, dress,21,1.5733497142791748,felt chilly
+5,b_exp,.,22,2.6638717651367188,felt chilly
+5,b_exp, Therefore,23,10.068726539611816,felt chilly
+5,b_exp,",",24,0.4001958668231964,felt chilly
+5,b_exp, she,25,1.3477401733398438,felt chilly
+5,b_exp, felt,26,4.721096992492676,felt chilly
+5,b_exp, chilly,27,9.159932136535645,felt chilly
+5,b_exp, at,28,3.9717416763305664,felt chilly
+5,b_exp, first,29,1.5919394493103027,felt chilly
+5,b_exp,.,30,0.9071841239929199,felt chilly
+5,b_imp,Finn,1,17.777910019120178,felt chilly
+5,b_imp, and,2,4.241534233093262,felt chilly
+5,b_imp, Daisy,3,9.488304138183594,felt chilly
+5,b_imp, were,4,3.861574411392212,felt chilly
+5,b_imp, taking,5,6.378745079040527,felt chilly
+5,b_imp, a,6,1.9001963138580322,felt chilly
+5,b_imp, walk,7,2.7136449813842773,felt chilly
+5,b_imp, on,8,2.9717159271240234,felt chilly
+5,b_imp, the,9,0.9153850674629211,felt chilly
+5,b_imp, beach,10,1.6640924215316772,felt chilly
+5,b_imp, early,11,7.113043308258057,felt chilly
+5,b_imp, in,12,1.7842695713043213,felt chilly
+5,b_imp, the,13,0.09512823075056076,felt chilly
+5,b_imp, morning,14,0.37496718764305115,felt chilly
+5,b_imp,.,15,1.1265881061553955,felt chilly
+5,b_imp, Daisy,16,3.401958465576172,felt chilly
+5,b_imp, was,17,1.8451600074768066,felt chilly
+5,b_imp, wearing,18,3.631544828414917,felt chilly
+5,b_imp, a,19,0.5939905047416687,felt chilly
+5,b_imp, summer,20,7.320156097412109,felt chilly
+5,b_imp, dress,21,1.5733497142791748,felt chilly
+5,b_imp,.,22,2.6638717651367188,felt chilly
+5,b_imp, She,23,2.2782680988311768,felt chilly
+5,b_imp, felt,24,5.237471580505371,felt chilly
+5,b_imp, chilly,25,7.972003936767578,felt chilly
+5,b_imp, at,26,4.100726127624512,felt chilly
+5,b_imp, first,27,0.8739534616470337,felt chilly
+5,b_imp,.,28,1.8292934894561768,felt chilly
+7,a_exp,Gabe,1,18.651656958958934,took a nap
+7,a_exp, had,2,4.772380828857422,took a nap
+7,a_exp, just,3,4.214742183685303,took a nap
+7,a_exp, arrived,4,3.7632498741149902,took a nap
+7,a_exp, in,5,1.3588852882385254,took a nap
+7,a_exp, Miami,6,5.456389427185059,took a nap
+7,a_exp, for,7,2.3400068283081055,took a nap
+7,a_exp, a,8,1.2053948640823364,took a nap
+7,a_exp, business,9,5.10656213760376,took a nap
+7,a_exp, trip,10,1.2477662563323975,took a nap
+7,a_exp,.,11,1.1958327293395996,took a nap
+7,a_exp, He,12,1.4221465587615967,took a nap
+7,a_exp, felt,13,5.216662883758545,took a nap
+7,a_exp, very,14,4.099883079528809,took a nap
+7,a_exp, tired,15,3.927539825439453,took a nap
+7,a_exp, from,16,3.874661922454834,took a nap
+7,a_exp, his,17,1.476500153541565,took a nap
+7,a_exp, flight,18,5.405444145202637,took a nap
+7,a_exp,.,19,1.9323688745498657,took a nap
+7,a_exp, Therefore,20,8.541353225708008,took a nap
+7,a_exp,",",21,0.291549950838089,took a nap
+7,a_exp, he,22,0.2250637412071228,took a nap
+7,a_exp, took,23,3.149966239929199,took a nap
+7,a_exp, a,24,1.0904172658920288,took a nap
+7,a_exp, nap,25,1.270257830619812,took a nap
+7,a_exp, at,26,3.51607346534729,took a nap
+7,a_exp, the,27,1.3511686325073242,took a nap
+7,a_exp, hotel,28,2.0845112800598145,took a nap
+7,a_exp,.,29,1.2132726907730103,took a nap
+7,a_imp,Gabe,1,18.651656958958934,took a nap
+7,a_imp, had,2,4.772380828857422,took a nap
+7,a_imp, just,3,4.214742183685303,took a nap
+7,a_imp, arrived,4,3.7632498741149902,took a nap
+7,a_imp, in,5,1.3588852882385254,took a nap
+7,a_imp, Miami,6,5.456389427185059,took a nap
+7,a_imp, for,7,2.3400068283081055,took a nap
+7,a_imp, a,8,1.2053948640823364,took a nap
+7,a_imp, business,9,5.10656213760376,took a nap
+7,a_imp, trip,10,1.2477662563323975,took a nap
+7,a_imp,.,11,1.1958327293395996,took a nap
+7,a_imp, He,12,1.4221465587615967,took a nap
+7,a_imp, felt,13,5.216662883758545,took a nap
+7,a_imp, very,14,4.099883079528809,took a nap
+7,a_imp, tired,15,3.927539825439453,took a nap
+7,a_imp, from,16,3.874661922454834,took a nap
+7,a_imp, his,17,1.476500153541565,took a nap
+7,a_imp, flight,18,5.405444145202637,took a nap
+7,a_imp,.,19,1.9323688745498657,took a nap
+7,a_imp, He,20,1.086428165435791,took a nap
+7,a_imp, took,21,4.303157329559326,took a nap
+7,a_imp, a,22,0.9621268510818481,took a nap
+7,a_imp, nap,23,1.6047228574752808,took a nap
+7,a_imp, at,24,3.7258682250976562,took a nap
+7,a_imp, the,25,1.2506301403045654,took a nap
+7,a_imp, hotel,26,2.2900500297546387,took a nap
+7,a_imp,.,27,1.7061436176300049,took a nap
+7,b_exp,Gabe,1,18.651656958958934,took a nap
+7,b_exp, was,2,4.124835968017578,took a nap
+7,b_exp, in,3,4.312951564788818,took a nap
+7,b_exp, Miami,4,6.044051170349121,took a nap
+7,b_exp, for,5,1.8053617477416992,took a nap
+7,b_exp, a,6,1.4068220853805542,took a nap
+7,b_exp, business,7,5.144682884216309,took a nap
+7,b_exp, trip,8,1.5490944385528564,took a nap
+7,b_exp,.,9,1.6677004098892212,took a nap
+7,b_exp, He,10,1.5598450899124146,took a nap
+7,b_exp, had,11,2.4820985794067383,took a nap
+7,b_exp, an,12,4.02070951461792,took a nap
+7,b_exp, event,13,4.627318382263184,took a nap
+7,b_exp, in,14,2.5730974674224854,took a nap
+7,b_exp, the,15,2.3878893852233887,took a nap
+7,b_exp, evening,16,5.074579238891602,took a nap
+7,b_exp,.,17,1.840217113494873,took a nap
+7,b_exp, Therefore,18,9.938470840454102,took a nap
+7,b_exp,",",19,0.2994493544101715,took a nap
+7,b_exp, he,20,1.006807565689087,took a nap
+7,b_exp, took,21,3.979403257369995,took a nap
+7,b_exp, a,22,1.4317229986190796,took a nap
+7,b_exp, nap,23,3.036496639251709,took a nap
+7,b_exp, at,24,3.1347618103027344,took a nap
+7,b_exp, the,25,1.4706753492355347,took a nap
+7,b_exp, hotel,26,1.9480962753295898,took a nap
+7,b_exp,.,27,1.1674582958221436,took a nap
+7,b_imp,Gabe,1,18.651656958958934,took a nap
+7,b_imp, was,2,4.124835968017578,took a nap
+7,b_imp, in,3,4.312951564788818,took a nap
+7,b_imp, Miami,4,6.044051170349121,took a nap
+7,b_imp, for,5,1.8053617477416992,took a nap
+7,b_imp, a,6,1.4068220853805542,took a nap
+7,b_imp, business,7,5.144682884216309,took a nap
+7,b_imp, trip,8,1.5490944385528564,took a nap
+7,b_imp,.,9,1.6677004098892212,took a nap
+7,b_imp, He,10,1.5598450899124146,took a nap
+7,b_imp, had,11,2.4820985794067383,took a nap
+7,b_imp, an,12,4.02070951461792,took a nap
+7,b_imp, event,13,4.627318382263184,took a nap
+7,b_imp, in,14,2.5730974674224854,took a nap
+7,b_imp, the,15,2.3878893852233887,took a nap
+7,b_imp, evening,16,5.074579238891602,took a nap
+7,b_imp,.,17,1.840217113494873,took a nap
+7,b_imp, He,18,1.6423735618591309,took a nap
+7,b_imp, took,19,4.540594100952148,took a nap
+7,b_imp, a,20,1.2532366514205933,took a nap
+7,b_imp, nap,21,3.4902801513671875,took a nap
+7,b_imp, at,22,3.1435296535491943,took a nap
+7,b_imp, the,23,1.2659046649932861,took a nap
+7,b_imp, hotel,24,2.2099556922912598,took a nap
+7,b_imp,.,25,1.312986135482788,took a nap
+9,a_exp,Tony's,1,15.543368310398845,declined to join them
+9,a_exp, colleagues,2,9.8416748046875,declined to join them
+9,a_exp, asked,3,5.177342414855957,declined to join them
+9,a_exp, him,4,1.476790428161621,declined to join them
+9,a_exp, to,5,1.0717837810516357,declined to join them
+9,a_exp, join,6,4.83809232711792,declined to join them
+9,a_exp, them,7,0.7189818024635315,declined to join them
+9,a_exp, on,8,2.3129286766052246,declined to join them
+9,a_exp, a,9,1.2526930570602417,declined to join them
+9,a_exp, whiskey,10,11.338937759399414,declined to join them
+9,a_exp, tasting,11,1.4792894124984741,declined to join them
+9,a_exp,.,12,2.030757427215576,declined to join them
+9,a_exp, Tony,13,8.16075325012207,declined to join them
+9,a_exp, had,14,3.3212921619415283,declined to join them
+9,a_exp, stopped,15,6.461014747619629,declined to join them
+9,a_exp, drinking,16,2.253518581390381,declined to join them
+9,a_exp, alcohol,17,4.567038536071777,declined to join them
+9,a_exp,.,18,3.628988742828369,declined to join them
+9,a_exp, Therefore,19,8.203598976135254,declined to join them
+9,a_exp,",",20,0.24729135632514954,declined to join them
+9,a_exp, he,21,0.8585032820701599,declined to join them
+9,a_exp, declined,22,6.712428092956543,declined to join them
+9,a_exp, to,23,1.2279345989227295,declined to join them
+9,a_exp, join,24,2.5098421573638916,declined to join them
+9,a_exp, them,25,0.8425426483154297,declined to join them
+9,a_exp, politely,26,12.867416381835938,declined to join them
+9,a_exp,.,27,0.6234754323959351,declined to join them
+9,a_imp,Tony's,1,15.543368310398845,declined to join them
+9,a_imp, colleagues,2,9.8416748046875,declined to join them
+9,a_imp, asked,3,5.177342414855957,declined to join them
+9,a_imp, him,4,1.476790428161621,declined to join them
+9,a_imp, to,5,1.0717837810516357,declined to join them
+9,a_imp, join,6,4.83809232711792,declined to join them
+9,a_imp, them,7,0.7189818024635315,declined to join them
+9,a_imp, on,8,2.3129286766052246,declined to join them
+9,a_imp, a,9,1.2526930570602417,declined to join them
+9,a_imp, whiskey,10,11.338937759399414,declined to join them
+9,a_imp, tasting,11,1.4792894124984741,declined to join them
+9,a_imp,.,12,2.030757427215576,declined to join them
+9,a_imp, Tony,13,8.16075325012207,declined to join them
+9,a_imp, had,14,3.3212921619415283,declined to join them
+9,a_imp, stopped,15,6.461014747619629,declined to join them
+9,a_imp, drinking,16,2.253518581390381,declined to join them
+9,a_imp, alcohol,17,4.567038536071777,declined to join them
+9,a_imp,.,18,3.628988742828369,declined to join them
+9,a_imp, He,19,1.4142316579818726,declined to join them
+9,a_imp, declined,20,7.629632949829102,declined to join them
+9,a_imp, to,21,1.856801986694336,declined to join them
+9,a_imp, join,22,3.1704530715942383,declined to join them
+9,a_imp, them,23,0.6734949946403503,declined to join them
+9,a_imp, politely,24,11.79072380065918,declined to join them
+9,a_imp,.,25,0.8951843976974487,declined to join them
+9,b_exp,Tony's,1,15.543368310398845,declined to join them
+9,b_exp, colleagues,2,9.8416748046875,declined to join them
+9,b_exp, asked,3,5.177342414855957,declined to join them
+9,b_exp, him,4,1.476790428161621,declined to join them
+9,b_exp, to,5,1.0717837810516357,declined to join them
+9,b_exp, join,6,4.83809232711792,declined to join them
+9,b_exp, them,7,0.7189818024635315,declined to join them
+9,b_exp, on,8,2.3129286766052246,declined to join them
+9,b_exp, a,9,1.2526930570602417,declined to join them
+9,b_exp, whiskey,10,11.338937759399414,declined to join them
+9,b_exp, tasting,11,1.4792894124984741,declined to join them
+9,b_exp,.,12,2.030757427215576,declined to join them
+9,b_exp, Tony,13,8.16075325012207,declined to join them
+9,b_exp, saw,14,6.145831108093262,declined to join them
+9,b_exp, it,15,3.298860549926758,declined to join them
+9,b_exp, was,16,2.3072469234466553,declined to join them
+9,b_exp, outside,17,9.058748245239258,declined to join them
+9,b_exp, the,18,1.6121840476989746,declined to join them
+9,b_exp, city,19,5.108639240264893,declined to join them
+9,b_exp,.,20,2.7982687950134277,declined to join them
+9,b_exp, Therefore,21,8.998617172241211,declined to join them
+9,b_exp,",",22,0.4278014898300171,declined to join them
+9,b_exp, he,23,0.7376101016998291,declined to join them
+9,b_exp, declined,24,6.888141632080078,declined to join them
+9,b_exp, to,25,1.8713456392288208,declined to join them
+9,b_exp, join,26,2.093022584915161,declined to join them
+9,b_exp, them,27,0.6707870960235596,declined to join them
+9,b_exp, politely,28,12.629352569580078,declined to join them
+9,b_exp,.,29,0.580959141254425,declined to join them
+9,b_imp,Tony's,1,15.543368310398845,declined to join them
+9,b_imp, colleagues,2,9.8416748046875,declined to join them
+9,b_imp, asked,3,5.177342414855957,declined to join them
+9,b_imp, him,4,1.476790428161621,declined to join them
+9,b_imp, to,5,1.0717837810516357,declined to join them
+9,b_imp, join,6,4.83809232711792,declined to join them
+9,b_imp, them,7,0.7189818024635315,declined to join them
+9,b_imp, on,8,2.3129286766052246,declined to join them
+9,b_imp, a,9,1.2526930570602417,declined to join them
+9,b_imp, whiskey,10,11.338937759399414,declined to join them
+9,b_imp, tasting,11,1.4792894124984741,declined to join them
+9,b_imp,.,12,2.030757427215576,declined to join them
+9,b_imp, Tony,13,8.16075325012207,declined to join them
+9,b_imp, saw,14,6.145831108093262,declined to join them
+9,b_imp, it,15,3.298860549926758,declined to join them
+9,b_imp, was,16,2.3072469234466553,declined to join them
+9,b_imp, outside,17,9.058748245239258,declined to join them
+9,b_imp, the,18,1.6121840476989746,declined to join them
+9,b_imp, city,19,5.108639240264893,declined to join them
+9,b_imp,.,20,2.7982687950134277,declined to join them
+9,b_imp, He,21,1.3383232355117798,declined to join them
+9,b_imp, declined,22,7.598298072814941,declined to join them
+9,b_imp, to,23,2.551647901535034,declined to join them
+9,b_imp, join,24,2.3233304023742676,declined to join them
+9,b_imp, them,25,0.6902287602424622,declined to join them
+9,b_imp, politely,26,11.651718139648438,declined to join them
+9,b_imp,.,27,0.8807587623596191,declined to join them
+10,a_exp,Jack,1,10.77576139899351,went home early
+10,a_exp, was,2,5.085377216339111,went home early
+10,a_exp, at,3,4.916847229003906,went home early
+10,a_exp, a,4,2.4264612197875977,went home early
+10,a_exp, party,5,2.530759572982788,went home early
+10,a_exp, his,6,7.204820156097412,went home early
+10,a_exp, friends,7,2.894517421722412,went home early
+10,a_exp, had,8,1.0390143394470215,went home early
+10,a_exp, invited,9,2.933067798614502,went home early
+10,a_exp, him,10,0.906574547290802,went home early
+10,a_exp, to,11,0.24153494834899902,went home early
+10,a_exp,.,12,2.3120851516723633,went home early
+10,a_exp, Jack,13,7.135460376739502,went home early
+10,a_exp, had,14,2.615812063217163,went home early
+10,a_exp, an,15,4.6197190284729,went home early
+10,a_exp, important,16,5.315319061279297,went home early
+10,a_exp, interview,17,6.792181968688965,went home early
+10,a_exp, the,18,6.092646598815918,went home early
+10,a_exp, next,19,0.5718593001365662,went home early
+10,a_exp, morning,20,1.2835307121276855,went home early
+10,a_exp,.,21,1.5840853452682495,went home early
+10,a_exp, Therefore,22,10.1074857711792,went home early
+10,a_exp,",",23,0.3169374465942383,went home early
+10,a_exp, he,24,1.144757866859436,went home early
+10,a_exp, went,25,3.1472532749176025,went home early
+10,a_exp, home,26,3.7060532569885254,went home early
+10,a_exp, early,27,3.5457520484924316,went home early
+10,a_exp, around,28,8.575650215148926,went home early
+10,a_exp, ten,29,5.809421539306641,went home early
+10,a_exp,.,30,1.9572882652282715,went home early
+10,a_imp,Jack,1,10.77576139899351,went home early
+10,a_imp, was,2,5.085377216339111,went home early
+10,a_imp, at,3,4.916847229003906,went home early
+10,a_imp, a,4,2.4264612197875977,went home early
+10,a_imp, party,5,2.530759572982788,went home early
+10,a_imp, his,6,7.204820156097412,went home early
+10,a_imp, friends,7,2.894517421722412,went home early
+10,a_imp, had,8,1.0390143394470215,went home early
+10,a_imp, invited,9,2.933067798614502,went home early
+10,a_imp, him,10,0.906574547290802,went home early
+10,a_imp, to,11,0.24153494834899902,went home early
+10,a_imp,.,12,2.3120851516723633,went home early
+10,a_imp, Jack,13,7.135460376739502,went home early
+10,a_imp, had,14,2.615812063217163,went home early
+10,a_imp, an,15,4.6197190284729,went home early
+10,a_imp, important,16,5.315319061279297,went home early
+10,a_imp, interview,17,6.792181968688965,went home early
+10,a_imp, the,18,6.092646598815918,went home early
+10,a_imp, next,19,0.5718593001365662,went home early
+10,a_imp, morning,20,1.2835307121276855,went home early
+10,a_imp,.,21,1.5840853452682495,went home early
+10,a_imp, He,22,1.6005274057388306,went home early
+10,a_imp, went,23,4.24141263961792,went home early
+10,a_imp, home,24,3.382981300354004,went home early
+10,a_imp, early,25,4.372061252593994,went home early
+10,a_imp, around,26,8.64638614654541,went home early
+10,a_imp, ten,27,5.917219161987305,went home early
+10,a_imp,.,28,2.0531563758850098,went home early
+10,b_exp,Jack,1,10.77576139899351,went home early
+10,b_exp, was,2,5.085377216339111,went home early
+10,b_exp, at,3,4.916847229003906,went home early
+10,b_exp, a,4,2.4264612197875977,went home early
+10,b_exp, party,5,2.530759572982788,went home early
+10,b_exp, his,6,7.204820156097412,went home early
+10,b_exp, friends,7,2.894517421722412,went home early
+10,b_exp, had,8,1.0390143394470215,went home early
+10,b_exp, invited,9,2.933067798614502,went home early
+10,b_exp, him,10,0.906574547290802,went home early
+10,b_exp, to,11,0.24153494834899902,went home early
+10,b_exp,.,12,2.3120851516723633,went home early
+10,b_exp, Jack,13,7.135460376739502,went home early
+10,b_exp, did,14,5.647436141967773,went home early
+10,b_exp, not,15,0.4350382387638092,went home early
+10,b_exp, like,16,3.376347064971924,went home early
+10,b_exp, the,17,1.5314466953277588,went home early
+10,b_exp, music,18,4.573193550109863,went home early
+10,b_exp, that,19,4.425269603729248,went home early
+10,b_exp, the,20,2.4583358764648438,went home early
+10,b_exp, band,21,2.3386387825012207,went home early
+10,b_exp, played,22,0.8860600590705872,went home early
+10,b_exp,.,23,1.4461965560913086,went home early
+10,b_exp, Therefore,24,7.4893598556518555,went home early
+10,b_exp,",",25,0.3356224000453949,went home early
+10,b_exp, he,26,0.45685410499572754,went home early
+10,b_exp, went,27,2.8497908115386963,went home early
+10,b_exp, home,28,2.572115182876587,went home early
+10,b_exp, early,29,4.674931526184082,went home early
+10,b_exp, around,30,8.869133949279785,went home early
+10,b_exp, ten,31,6.023893356323242,went home early
+10,b_exp,.,32,2.2453858852386475,went home early
+10,b_imp,Jack,1,10.77576139899351,went home early
+10,b_imp, was,2,5.085377216339111,went home early
+10,b_imp, at,3,4.916847229003906,went home early
+10,b_imp, a,4,2.4264612197875977,went home early
+10,b_imp, party,5,2.530759572982788,went home early
+10,b_imp, his,6,7.204820156097412,went home early
+10,b_imp, friends,7,2.894517421722412,went home early
+10,b_imp, had,8,1.0390143394470215,went home early
+10,b_imp, invited,9,2.933067798614502,went home early
+10,b_imp, him,10,0.906574547290802,went home early
+10,b_imp, to,11,0.24153494834899902,went home early
+10,b_imp,.,12,2.3120851516723633,went home early
+10,b_imp, Jack,13,7.135460376739502,went home early
+10,b_imp, did,14,5.647436141967773,went home early
+10,b_imp, not,15,0.4350382387638092,went home early
+10,b_imp, like,16,3.376347064971924,went home early
+10,b_imp, the,17,1.5314466953277588,went home early
+10,b_imp, music,18,4.573193550109863,went home early
+10,b_imp, that,19,4.425269603729248,went home early
+10,b_imp, the,20,2.4583358764648438,went home early
+10,b_imp, band,21,2.3386387825012207,went home early
+10,b_imp, played,22,0.8860600590705872,went home early
+10,b_imp,.,23,1.4461965560913086,went home early
+10,b_imp, He,24,1.259821891784668,went home early
+10,b_imp, went,25,3.992403268814087,went home early
+10,b_imp, home,26,2.037745475769043,went home early
+10,b_imp, early,27,4.764915943145752,went home early
+10,b_imp, around,28,8.626667022705078,went home early
+10,b_imp, ten,29,6.270630836486816,went home early
+10,b_imp,.,30,2.3817009925842285,went home early
+11,a_exp,Julia's,1,23.194015690204505,is feeling much better
+11,a_exp, mom,2,5.407802581787109,is feeling much better
+11,a_exp, was,3,3.202199697494507,is feeling much better
+11,a_exp, telling,4,6.52955436706543,is feeling much better
+11,a_exp, her,5,1.6984418630599976,is feeling much better
+11,a_exp, about,6,2.6860618591308594,is feeling much better
+11,a_exp, their,7,4.604920864105225,is feeling much better
+11,a_exp, cousin,8,7.049412727355957,is feeling much better
+11,a_exp, Frank,9,8.200780868530273,is feeling much better
+11,a_exp,.,10,2.3988847732543945,is feeling much better
+11,a_exp, Frank,11,2.7789018154144287,is feeling much better
+11,a_exp, finally,12,7.404952526092529,is feeling much better
+11,a_exp, got,13,2.667210578918457,is feeling much better
+11,a_exp, out,14,3.3293895721435547,is feeling much better
+11,a_exp, of,15,0.29785794019699097,is feeling much better
+11,a_exp, his,16,1.97279691696167,is feeling much better
+11,a_exp, depression,17,7.644461631774902,is feeling much better
+11,a_exp,.,18,2.58711576461792,is feeling much better
+11,a_exp, Therefore,19,9.752328872680664,is feeling much better
+11,a_exp,",",20,0.5066869258880615,is feeling much better
+11,a_exp, he,21,1.7404364347457886,is feeling much better
+11,a_exp, is,22,4.870754241943359,is feeling much better
+11,a_exp, feeling,23,7.5706987380981445,is feeling much better
+11,a_exp, much,24,3.609360694885254,is feeling much better
+11,a_exp, better,25,0.31007179617881775,is feeling much better
+11,a_exp, at,26,4.8470635414123535,is feeling much better
+11,a_exp, the,27,2.623741865158081,is feeling much better
+11,a_exp, moment,28,0.8411168456077576,is feeling much better
+11,a_exp,.,29,0.41067802906036377,is feeling much better
+11,a_imp,Julia's,1,23.194015690204505,is feeling much better
+11,a_imp, mom,2,5.407802581787109,is feeling much better
+11,a_imp, was,3,3.202199697494507,is feeling much better
+11,a_imp, telling,4,6.52955436706543,is feeling much better
+11,a_imp, her,5,1.6984418630599976,is feeling much better
+11,a_imp, about,6,2.6860618591308594,is feeling much better
+11,a_imp, their,7,4.604920864105225,is feeling much better
+11,a_imp, cousin,8,7.049412727355957,is feeling much better
+11,a_imp, Frank,9,8.200780868530273,is feeling much better
+11,a_imp,.,10,2.3988847732543945,is feeling much better
+11,a_imp, Frank,11,2.7789018154144287,is feeling much better
+11,a_imp, finally,12,7.404952526092529,is feeling much better
+11,a_imp, got,13,2.667210578918457,is feeling much better
+11,a_imp, out,14,3.3293895721435547,is feeling much better
+11,a_imp, of,15,0.29785794019699097,is feeling much better
+11,a_imp, his,16,1.97279691696167,is feeling much better
+11,a_imp, depression,17,7.644461631774902,is feeling much better
+11,a_imp,.,18,2.58711576461792,is feeling much better
+11,a_imp, He,19,1.5170540809631348,is feeling much better
+11,a_imp, is,20,5.444014072418213,is feeling much better
+11,a_imp, feeling,21,7.602595806121826,is feeling much better
+11,a_imp, much,22,3.7266507148742676,is feeling much better
+11,a_imp, better,23,0.17231795191764832,is feeling much better
+11,a_imp, at,24,4.7360734939575195,is feeling much better
+11,a_imp, the,25,2.53262996673584,is feeling much better
+11,a_imp, moment,26,0.40506407618522644,is feeling much better
+11,a_imp,.,27,0.7254875302314758,is feeling much better
+11,b_exp,Julia's,1,23.194015690204505,is feeling much better
+11,b_exp, mom,2,5.407802581787109,is feeling much better
+11,b_exp, was,3,3.202199697494507,is feeling much better
+11,b_exp, telling,4,6.52955436706543,is feeling much better
+11,b_exp, her,5,1.6984418630599976,is feeling much better
+11,b_exp, about,6,2.6860618591308594,is feeling much better
+11,b_exp, their,7,4.604920864105225,is feeling much better
+11,b_exp, cousin,8,7.049412727355957,is feeling much better
+11,b_exp, Frank,9,8.200780868530273,is feeling much better
+11,b_exp,.,10,2.3988847732543945,is feeling much better
+11,b_exp, Frank,11,2.7789018154144287,is feeling much better
+11,b_exp, went,12,4.863128185272217,is feeling much better
+11,b_exp, on,13,2.3643438816070557,is feeling much better
+11,b_exp, a,14,2.0697293281555176,is feeling much better
+11,b_exp, meditation,15,9.39510440826416,is feeling much better
+11,b_exp, retreat,16,0.9759059548377991,is feeling much better
+11,b_exp,.,17,3.0276663303375244,is feeling much better
+11,b_exp, Therefore,18,10.556787490844727,is feeling much better
+11,b_exp,",",19,0.43364930152893066,is feeling much better
+11,b_exp, he,20,2.644881010055542,is feeling much better
+11,b_exp, is,21,4.378872394561768,is feeling much better
+11,b_exp, feeling,22,8.628079414367676,is feeling much better
+11,b_exp, much,23,3.933595895767212,is feeling much better
+11,b_exp, better,24,0.7494499683380127,is feeling much better
+11,b_exp, at,25,4.484614372253418,is feeling much better
+11,b_exp, the,26,2.0933570861816406,is feeling much better
+11,b_exp, moment,27,0.3899308443069458,is feeling much better
+11,b_exp,.,28,0.4252402186393738,is feeling much better
+11,b_imp,Julia's,1,23.194015690204505,is feeling much better
+11,b_imp, mom,2,5.407802581787109,is feeling much better
+11,b_imp, was,3,3.202199697494507,is feeling much better
+11,b_imp, telling,4,6.52955436706543,is feeling much better
+11,b_imp, her,5,1.6984418630599976,is feeling much better
+11,b_imp, about,6,2.6860618591308594,is feeling much better
+11,b_imp, their,7,4.604920864105225,is feeling much better
+11,b_imp, cousin,8,7.049412727355957,is feeling much better
+11,b_imp, Frank,9,8.200780868530273,is feeling much better
+11,b_imp,.,10,2.3988847732543945,is feeling much better
+11,b_imp, Frank,11,2.7789018154144287,is feeling much better
+11,b_imp, went,12,4.863128185272217,is feeling much better
+11,b_imp, on,13,2.3643438816070557,is feeling much better
+11,b_imp, a,14,2.0697293281555176,is feeling much better
+11,b_imp, meditation,15,9.39510440826416,is feeling much better
+11,b_imp, retreat,16,0.9759059548377991,is feeling much better
+11,b_imp,.,17,3.0276663303375244,is feeling much better
+11,b_imp, He,18,2.2733101844787598,is feeling much better
+11,b_imp, is,19,5.49161434173584,is feeling much better
+11,b_imp, feeling,20,8.505311012268066,is feeling much better
+11,b_imp, much,21,4.172986030578613,is feeling much better
+11,b_imp, better,22,0.3359636664390564,is feeling much better
+11,b_imp, at,23,4.573402404785156,is feeling much better
+11,b_imp, the,24,1.9414554834365845,is feeling much better
+11,b_imp, moment,25,0.17539145052433014,is feeling much better
+11,b_imp,.,26,0.6421297788619995,is feeling much better
+13,a_exp,Aisha,1,17.71471984133963,was very hungry
+13,a_exp, was,2,3.958718776702881,was very hungry
+13,a_exp, hiking,3,9.61643123626709,was very hungry
+13,a_exp, in,4,1.9796513319015503,was very hungry
+13,a_exp, the,5,0.7808122634887695,was very hungry
+13,a_exp, forest,6,2.889857530593872,was very hungry
+13,a_exp,.,7,2.869633913040161,was very hungry
+13,a_exp, She,8,1.4888954162597656,was very hungry
+13,a_exp, had,9,2.3033289909362793,was very hungry
+13,a_exp, forgotten,10,5.55411434173584,was very hungry
+13,a_exp, to,11,1.674546241760254,was very hungry
+13,a_exp, pack,12,3.5718021392822266,was very hungry
+13,a_exp, lunch,13,7.213642120361328,was very hungry
+13,a_exp,.,14,1.620477318763733,was very hungry
+13,a_exp, Therefore,15,8.354414939880371,was very hungry
+13,a_exp,",",16,0.18435919284820557,was very hungry
+13,a_exp, she,17,0.39089471101760864,was very hungry
+13,a_exp, was,18,2.627934694290161,was very hungry
+13,a_exp, very,19,4.376422882080078,was very hungry
+13,a_exp, hungry,20,1.7416915893554688,was very hungry
+13,a_exp, by,21,6.755794048309326,was very hungry
+13,a_exp, two,22,7.169037342071533,was very hungry
+13,a_exp, o'clock,23,1.956061008386314,was very hungry
+13,a_exp,.,24,0.8813467621803284,was very hungry
+13,a_imp,Aisha,1,17.71471984133963,was very hungry
+13,a_imp, was,2,3.958718776702881,was very hungry
+13,a_imp, hiking,3,9.61643123626709,was very hungry
+13,a_imp, in,4,1.9796513319015503,was very hungry
+13,a_imp, the,5,0.7808122634887695,was very hungry
+13,a_imp, forest,6,2.889857530593872,was very hungry
+13,a_imp,.,7,2.869633913040161,was very hungry
+13,a_imp, She,8,1.4888954162597656,was very hungry
+13,a_imp, had,9,2.3033289909362793,was very hungry
+13,a_imp, forgotten,10,5.55411434173584,was very hungry
+13,a_imp, to,11,1.674546241760254,was very hungry
+13,a_imp, pack,12,3.5718021392822266,was very hungry
+13,a_imp, lunch,13,7.213642120361328,was very hungry
+13,a_imp,.,14,1.620477318763733,was very hungry
+13,a_imp, She,15,1.7558889389038086,was very hungry
+13,a_imp, was,16,2.120878219604492,was very hungry
+13,a_imp, very,17,5.013238906860352,was very hungry
+13,a_imp, hungry,18,2.046764373779297,was very hungry
+13,a_imp, by,19,6.721935749053955,was very hungry
+13,a_imp, two,20,7.510748863220215,was very hungry
+13,a_imp, o'clock,21,1.4814829835668206,was very hungry
+13,a_imp,.,22,1.2568614482879639,was very hungry
+13,b_exp,Aisha,1,17.71471984133963,was very hungry
+13,b_exp, was,2,3.958718776702881,was very hungry
+13,b_exp, hiking,3,9.61643123626709,was very hungry
+13,b_exp, in,4,1.9796513319015503,was very hungry
+13,b_exp, the,5,0.7808122634887695,was very hungry
+13,b_exp, forest,6,2.889857530593872,was very hungry
+13,b_exp,.,7,2.869633913040161,was very hungry
+13,b_exp, She,8,1.4888954162597656,was very hungry
+13,b_exp, had,9,2.3033289909362793,was very hungry
+13,b_exp, left,10,5.520918846130371,was very hungry
+13,b_exp, early,11,6.914523601531982,was very hungry
+13,b_exp, in,12,2.7889628410339355,was very hungry
+13,b_exp, the,13,0.027510792016983032,was very hungry
+13,b_exp, morning,14,0.3640454411506653,was very hungry
+13,b_exp,.,15,2.1787266731262207,was very hungry
+13,b_exp, Therefore,16,9.405942916870117,was very hungry
+13,b_exp,",",17,0.21394379436969757,was very hungry
+13,b_exp, she,18,0.7403313517570496,was very hungry
+13,b_exp, was,19,1.9490848779678345,was very hungry
+13,b_exp, very,20,4.245763778686523,was very hungry
+13,b_exp, hungry,21,3.041222333908081,was very hungry
+13,b_exp, by,22,6.606881618499756,was very hungry
+13,b_exp, two,23,6.60312032699585,was very hungry
+13,b_exp, o'clock,24,1.5635852320119739,was very hungry
+13,b_exp,.,25,0.8536552786827087,was very hungry
+13,b_imp,Aisha,1,17.71471984133963,was very hungry
+13,b_imp, was,2,3.958718776702881,was very hungry
+13,b_imp, hiking,3,9.61643123626709,was very hungry
+13,b_imp, in,4,1.9796513319015503,was very hungry
+13,b_imp, the,5,0.7808122634887695,was very hungry
+13,b_imp, forest,6,2.889857530593872,was very hungry
+13,b_imp,.,7,2.869633913040161,was very hungry
+13,b_imp, She,8,1.4888954162597656,was very hungry
+13,b_imp, had,9,2.3033289909362793,was very hungry
+13,b_imp, left,10,5.520918846130371,was very hungry
+13,b_imp, early,11,6.914523601531982,was very hungry
+13,b_imp, in,12,2.7889628410339355,was very hungry
+13,b_imp, the,13,0.027510792016983032,was very hungry
+13,b_imp, morning,14,0.3640454411506653,was very hungry
+13,b_imp,.,15,2.1787266731262207,was very hungry
+13,b_imp, She,16,1.6502057313919067,was very hungry
+13,b_imp, was,17,1.7711974382400513,was very hungry
+13,b_imp, very,18,4.86729621887207,was very hungry
+13,b_imp, hungry,19,3.295482635498047,was very hungry
+13,b_imp, by,20,6.851336479187012,was very hungry
+13,b_imp, two,21,6.5449395179748535,was very hungry
+13,b_imp, o'clock,22,1.146229000762105,was very hungry
+13,b_imp,.,23,1.183210849761963,was very hungry
+14,a_exp,Robyn,1,20.021321902442285,plans to open a salon
+14,a_exp, is,2,4.583200454711914,plans to open a salon
+14,a_exp, a,3,1.8595764636993408,plans to open a salon
+14,a_exp, trained,4,7.187565803527832,plans to open a salon
+14,a_exp, hairdresser,5,10.179799711710075,plans to open a salon
+14,a_exp,.,6,2.398303508758545,plans to open a salon
+14,a_exp, She,7,0.959259033203125,plans to open a salon
+14,a_exp, always,8,6.046074867248535,plans to open a salon
+14,a_exp, wanted,9,3.646709442138672,plans to open a salon
+14,a_exp, to,10,0.23142719268798828,plans to open a salon
+14,a_exp, be,11,1.0138094425201416,plans to open a salon
+14,a_exp, her,12,5.927282333374023,plans to open a salon
+14,a_exp, own,13,1.029899001121521,plans to open a salon
+14,a_exp, boss,14,2.224870204925537,plans to open a salon
+14,a_exp,.,15,0.9977863430976868,plans to open a salon
+14,a_exp, Therefore,16,8.086816787719727,plans to open a salon
+14,a_exp,",",17,0.3141467869281769,plans to open a salon
+14,a_exp, she,18,0.4739879369735718,plans to open a salon
+14,a_exp, plans,19,7.908931255340576,plans to open a salon
+14,a_exp, to,20,0.3476414382457733,plans to open a salon
+14,a_exp, open,21,5.595749855041504,plans to open a salon
+14,a_exp, a,22,1.0837239027023315,plans to open a salon
+14,a_exp, salon,23,3.693497657775879,plans to open a salon
+14,a_exp, of,24,5.49967622756958,plans to open a salon
+14,a_exp, her,25,0.8074182271957397,plans to open a salon
+14,a_exp, own,26,0.019626818597316742,plans to open a salon
+14,a_exp,.,27,0.9994837641716003,plans to open a salon
+14,a_imp,Robyn,1,20.021321902442285,plans to open a salon
+14,a_imp, is,2,4.583200454711914,plans to open a salon
+14,a_imp, a,3,1.8595764636993408,plans to open a salon
+14,a_imp, trained,4,7.187565803527832,plans to open a salon
+14,a_imp, hairdresser,5,10.179799711710075,plans to open a salon
+14,a_imp,.,6,2.398303508758545,plans to open a salon
+14,a_imp, She,7,0.959259033203125,plans to open a salon
+14,a_imp, always,8,6.046074867248535,plans to open a salon
+14,a_imp, wanted,9,3.646709442138672,plans to open a salon
+14,a_imp, to,10,0.23142719268798828,plans to open a salon
+14,a_imp, be,11,1.0138094425201416,plans to open a salon
+14,a_imp, her,12,5.927282333374023,plans to open a salon
+14,a_imp, own,13,1.029899001121521,plans to open a salon
+14,a_imp, boss,14,2.224870204925537,plans to open a salon
+14,a_imp,.,15,0.9977863430976868,plans to open a salon
+14,a_imp, She,16,1.6020143032073975,plans to open a salon
+14,a_imp, plans,17,7.56785774230957,plans to open a salon
+14,a_imp, to,18,0.4977698028087616,plans to open a salon
+14,a_imp, open,19,5.4431047439575195,plans to open a salon
+14,a_imp, a,20,0.9910098910331726,plans to open a salon
+14,a_imp, salon,21,3.9217312335968018,plans to open a salon
+14,a_imp, of,22,5.896076202392578,plans to open a salon
+14,a_imp, her,23,0.7633013725280762,plans to open a salon
+14,a_imp, own,24,0.017721176147460938,plans to open a salon
+14,a_imp,.,25,1.2366836071014404,plans to open a salon
+14,b_exp,Robyn,1,20.021321902442285,plans to open a salon
+14,b_exp, is,2,4.583200454711914,plans to open a salon
+14,b_exp, a,3,1.8595764636993408,plans to open a salon
+14,b_exp, trained,4,7.187565803527832,plans to open a salon
+14,b_exp, hairdresser,5,10.179799711710075,plans to open a salon
+14,b_exp,.,6,2.398303508758545,plans to open a salon
+14,b_exp, She,7,0.959259033203125,plans to open a salon
+14,b_exp, graduated,8,5.350403785705566,plans to open a salon
+14,b_exp, a,9,6.505003929138184,plans to open a salon
+14,b_exp, month,10,7.775401592254639,plans to open a salon
+14,b_exp, ago,11,1.421913743019104,plans to open a salon
+14,b_exp,.,12,2.4720470905303955,plans to open a salon
+14,b_exp, Therefore,13,10.317610740661621,plans to open a salon
+14,b_exp,",",14,0.2649368345737457,plans to open a salon
+14,b_exp, she,15,0.8501314520835876,plans to open a salon
+14,b_exp, plans,16,6.457292556762695,plans to open a salon
+14,b_exp, to,17,0.18317466974258423,plans to open a salon
+14,b_exp, open,18,5.754096984863281,plans to open a salon
+14,b_exp, a,19,0.855543851852417,plans to open a salon
+14,b_exp, salon,20,2.1252050399780273,plans to open a salon
+14,b_exp, of,21,5.796082973480225,plans to open a salon
+14,b_exp, her,22,0.48704177141189575,plans to open a salon
+14,b_exp, own,23,0.02466246671974659,plans to open a salon
+14,b_exp,.,24,1.0455130338668823,plans to open a salon
+14,b_imp,Robyn,1,20.021321902442285,plans to open a salon
+14,b_imp, is,2,4.583200454711914,plans to open a salon
+14,b_imp, a,3,1.8595764636993408,plans to open a salon
+14,b_imp, trained,4,7.187565803527832,plans to open a salon
+14,b_imp, hairdresser,5,10.179799711710075,plans to open a salon
+14,b_imp,.,6,2.398303508758545,plans to open a salon
+14,b_imp, She,7,0.959259033203125,plans to open a salon
+14,b_imp, graduated,8,5.350403785705566,plans to open a salon
+14,b_imp, a,9,6.505003929138184,plans to open a salon
+14,b_imp, month,10,7.775401592254639,plans to open a salon
+14,b_imp, ago,11,1.421913743019104,plans to open a salon
+14,b_imp,.,12,2.4720470905303955,plans to open a salon
+14,b_imp, She,13,1.6191545724868774,plans to open a salon
+14,b_imp, plans,14,5.55417013168335,plans to open a salon
+14,b_imp, to,15,0.18190248310565948,plans to open a salon
+14,b_imp, open,16,4.691615104675293,plans to open a salon
+14,b_imp, a,17,0.6639768481254578,plans to open a salon
+14,b_imp, salon,18,2.397979259490967,plans to open a salon
+14,b_imp, of,19,6.28220272064209,plans to open a salon
+14,b_imp, her,20,0.3956829607486725,plans to open a salon
+14,b_imp, own,21,0.017648914828896523,plans to open a salon
+14,b_imp,.,22,1.3042454719543457,plans to open a salon
+15,a_exp,Angela,1,22.283897231094997,was evicted
+15,a_exp, used,2,7.960389137268066,was evicted
+15,a_exp, to,3,1.3479900360107422,was evicted
+15,a_exp, live,4,3.598130226135254,was evicted
+15,a_exp, in,5,0.6041525602340698,was evicted
+15,a_exp, a,6,2.0764665603637695,was evicted
+15,a_exp, small,7,2.240316390991211,was evicted
+15,a_exp, flat,8,5.07563591003418,was evicted
+15,a_exp, in,9,0.7000392079353333,was evicted
+15,a_exp, Atlanta,10,8.26298713684082,was evicted
+15,a_exp,.,11,1.586289405822754,was evicted
+15,a_exp, She,12,1.1416614055633545,was evicted
+15,a_exp, didn't,13,4.3218774186389055,was evicted
+15,a_exp, pay,14,5.235269069671631,was evicted
+15,a_exp, rent,15,3.170893907546997,was evicted
+15,a_exp, for,16,3.5263986587524414,was evicted
+15,a_exp, months,17,4.312978744506836,was evicted
+15,a_exp,.,18,1.7292128801345825,was evicted
+15,a_exp, Therefore,19,9.878432273864746,was evicted
+15,a_exp,",",20,0.2487695813179016,was evicted
+15,a_exp, she,21,0.5970316529273987,was evicted
+15,a_exp, was,22,2.4643757343292236,was evicted
+15,a_exp, evicted,23,7.061408308334649,was evicted
+15,a_exp, by,24,3.297114372253418,was evicted
+15,a_exp, her,25,0.9757428169250488,was evicted
+15,a_exp, landlord,26,0.5922089219093323,was evicted
+15,a_exp,.,27,1.3481653928756714,was evicted
+15,a_imp,Angela,1,22.283897231094997,was evicted
+15,a_imp, used,2,7.960389137268066,was evicted
+15,a_imp, to,3,1.3479900360107422,was evicted
+15,a_imp, live,4,3.598130226135254,was evicted
+15,a_imp, in,5,0.6041525602340698,was evicted
+15,a_imp, a,6,2.0764665603637695,was evicted
+15,a_imp, small,7,2.240316390991211,was evicted
+15,a_imp, flat,8,5.07563591003418,was evicted
+15,a_imp, in,9,0.7000392079353333,was evicted
+15,a_imp, Atlanta,10,8.26298713684082,was evicted
+15,a_imp,.,11,1.586289405822754,was evicted
+15,a_imp, She,12,1.1416614055633545,was evicted
+15,a_imp, didn't,13,4.3218774186389055,was evicted
+15,a_imp, pay,14,5.235269069671631,was evicted
+15,a_imp, rent,15,3.170893907546997,was evicted
+15,a_imp, for,16,3.5263986587524414,was evicted
+15,a_imp, months,17,4.312978744506836,was evicted
+15,a_imp,.,18,1.7292128801345825,was evicted
+15,a_imp, She,19,1.4060813188552856,was evicted
+15,a_imp, was,20,2.4383435249328613,was evicted
+15,a_imp, evicted,21,7.552005996636581,was evicted
+15,a_imp, by,22,3.334157943725586,was evicted
+15,a_imp, her,23,0.819369912147522,was evicted
+15,a_imp, landlord,24,0.8708773255348206,was evicted
+15,a_imp,.,25,2.2031991481781006,was evicted
+15,b_exp,Angela,1,22.283897231094997,was evicted
+15,b_exp, used,2,7.960389137268066,was evicted
+15,b_exp, to,3,1.3479900360107422,was evicted
+15,b_exp, live,4,3.598130226135254,was evicted
+15,b_exp, in,5,0.6041525602340698,was evicted
+15,b_exp, a,6,2.0764665603637695,was evicted
+15,b_exp, small,7,2.240316390991211,was evicted
+15,b_exp, flat,8,5.07563591003418,was evicted
+15,b_exp, in,9,0.7000392079353333,was evicted
+15,b_exp, Atlanta,10,8.26298713684082,was evicted
+15,b_exp,.,11,1.586289405822754,was evicted
+15,b_exp, She,12,1.1416614055633545,was evicted
+15,b_exp, had,13,2.5340754985809326,was evicted
+15,b_exp, over,14,8.349981307983398,was evicted
+15,b_exp, fifteen,15,6.018943786621094,was evicted
+15,b_exp, cats,16,4.187224388122559,was evicted
+15,b_exp,.,17,1.9966970682144165,was evicted
+15,b_exp, Therefore,18,10.059513092041016,was evicted
+15,b_exp,",",19,0.3460242450237274,was evicted
+15,b_exp, she,20,0.8582795262336731,was evicted
+15,b_exp, was,21,2.0308902263641357,was evicted
+15,b_exp, evicted,22,9.773735836148262,was evicted
+15,b_exp, by,23,3.342142343521118,was evicted
+15,b_exp, her,24,1.1121522188186646,was evicted
+15,b_exp, landlord,25,0.811631441116333,was evicted
+15,b_exp,.,26,1.7315754890441895,was evicted
+15,b_imp,Angela,1,22.283897231094997,was evicted
+15,b_imp, used,2,7.960389137268066,was evicted
+15,b_imp, to,3,1.3479900360107422,was evicted
+15,b_imp, live,4,3.598130226135254,was evicted
+15,b_imp, in,5,0.6041525602340698,was evicted
+15,b_imp, a,6,2.0764665603637695,was evicted
+15,b_imp, small,7,2.240316390991211,was evicted
+15,b_imp, flat,8,5.07563591003418,was evicted
+15,b_imp, in,9,0.7000392079353333,was evicted
+15,b_imp, Atlanta,10,8.26298713684082,was evicted
+15,b_imp,.,11,1.586289405822754,was evicted
+15,b_imp, She,12,1.1416614055633545,was evicted
+15,b_imp, had,13,2.5340754985809326,was evicted
+15,b_imp, over,14,8.349981307983398,was evicted
+15,b_imp, fifteen,15,6.018943786621094,was evicted
+15,b_imp, cats,16,4.187224388122559,was evicted
+15,b_imp,.,17,1.9966970682144165,was evicted
+15,b_imp, She,18,1.412555456161499,was evicted
+15,b_imp, was,19,2.0731184482574463,was evicted
+15,b_imp, evicted,20,9.39820845425129,was evicted
+15,b_imp, by,21,3.467257499694824,was evicted
+15,b_imp, her,22,0.9341610074043274,was evicted
+15,b_imp, landlord,23,1.086381435394287,was evicted
+15,b_imp,.,24,2.824641227722168,was evicted
+19,a_exp,Hailey's,1,22.64881576506474,called the resort
+19,a_exp, family,2,5.2479119300842285,called the resort
+19,a_exp, just,3,7.101515769958496,called the resort
+19,a_exp, returned,4,4.8778605461120605,called the resort
+19,a_exp, from,5,0.38557004928588867,called the resort
+19,a_exp, a,6,1.4134145975112915,called the resort
+19,a_exp, 10-day,7,6.2609919756650925,called the resort
+19,a_exp, vacation,8,2.1274611949920654,called the resort
+19,a_exp, at,9,3.7232754230499268,called the resort
+19,a_exp, a,10,2.720707893371582,called the resort
+19,a_exp, resort,11,3.261990547180176,called the resort
+19,a_exp,.,12,3.079263210296631,called the resort
+19,a_exp, She,13,2.595611572265625,called the resort
+19,a_exp, realized,14,7.677761077880859,called the resort
+19,a_exp, she,15,1.3226255178451538,called the resort
+19,a_exp, had,16,1.1922439336776733,called the resort
+19,a_exp, left,17,4.159828186035156,called the resort
+19,a_exp, her,18,1.1718649864196777,called the resort
+19,a_exp, laptop,19,6.639549255371094,called the resort
+19,a_exp, there,20,5.188587188720703,called the resort
+19,a_exp,.,21,2.2860941886901855,called the resort
+19,a_exp, Therefore,22,9.764057159423828,called the resort
+19,a_exp,",",23,0.14918272197246552,called the resort
+19,a_exp, she,24,0.45757463574409485,called the resort
+19,a_exp, called,25,3.53140926361084,called the resort
+19,a_exp, the,26,1.9542956352233887,called the resort
+19,a_exp, resort,27,6.676422119140625,called the resort
+19,a_exp, the,28,5.461115837097168,called the resort
+19,a_exp, next,29,1.9694428443908691,called the resort
+19,a_exp, day,30,0.3046911358833313,called the resort
+19,a_exp,.,31,1.0393191576004028,called the resort
+19,a_imp,Hailey's,1,22.64881576506474,called the resort
+19,a_imp, family,2,5.2479119300842285,called the resort
+19,a_imp, just,3,7.101515769958496,called the resort
+19,a_imp, returned,4,4.8778605461120605,called the resort
+19,a_imp, from,5,0.38557004928588867,called the resort
+19,a_imp, a,6,1.4134145975112915,called the resort
+19,a_imp, 10-day,7,6.2609919756650925,called the resort
+19,a_imp, vacation,8,2.1274611949920654,called the resort
+19,a_imp, at,9,3.7232754230499268,called the resort
+19,a_imp, a,10,2.720707893371582,called the resort
+19,a_imp, resort,11,3.261990547180176,called the resort
+19,a_imp,.,12,3.079263210296631,called the resort
+19,a_imp, She,13,2.595611572265625,called the resort
+19,a_imp, realized,14,7.677761077880859,called the resort
+19,a_imp, she,15,1.3226255178451538,called the resort
+19,a_imp, had,16,1.1922439336776733,called the resort
+19,a_imp, left,17,4.159828186035156,called the resort
+19,a_imp, her,18,1.1718649864196777,called the resort
+19,a_imp, laptop,19,6.639549255371094,called the resort
+19,a_imp, there,20,5.188587188720703,called the resort
+19,a_imp,.,21,2.2860941886901855,called the resort
+19,a_imp, She,22,1.6104236841201782,called the resort
+19,a_imp, called,23,2.919538974761963,called the resort
+19,a_imp, the,24,1.9832978248596191,called the resort
+19,a_imp, resort,25,7.758822917938232,called the resort
+19,a_imp, the,26,5.681058406829834,called the resort
+19,a_imp, next,27,1.0129340887069702,called the resort
+19,a_imp, day,28,0.259400874376297,called the resort
+19,a_imp,.,29,1.5071107149124146,called the resort
+19,b_exp,Hailey's,1,22.64881576506474,called the resort
+19,b_exp, family,2,5.2479119300842285,called the resort
+19,b_exp, just,3,7.101515769958496,called the resort
+19,b_exp, returned,4,4.8778605461120605,called the resort
+19,b_exp, from,5,0.38557004928588867,called the resort
+19,b_exp, a,6,1.4134145975112915,called the resort
+19,b_exp, 10-day,7,6.2609919756650925,called the resort
+19,b_exp, vacation,8,2.1274611949920654,called the resort
+19,b_exp, at,9,3.7232754230499268,called the resort
+19,b_exp, a,10,2.720707893371582,called the resort
+19,b_exp, resort,11,3.261990547180176,called the resort
+19,b_exp,.,12,3.079263210296631,called the resort
+19,b_exp, She,13,2.595611572265625,called the resort
+19,b_exp, couldn't,14,5.628664728777949,called the resort
+19,b_exp, find,15,2.9841177463531494,called the resort
+19,b_exp, her,16,1.6361560821533203,called the resort
+19,b_exp, laptop,17,7.675660610198975,called the resort
+19,b_exp, anywhere,18,5.830832004547119,called the resort
+19,b_exp,.,19,1.4423043727874756,called the resort
+19,b_exp, Therefore,20,8.354948043823242,called the resort
+19,b_exp,",",21,0.18156443536281586,called the resort
+19,b_exp, she,22,0.6528807282447815,called the resort
+19,b_exp, called,23,3.3301756381988525,called the resort
+19,b_exp, the,24,2.1189064979553223,called the resort
+19,b_exp, resort,25,6.101169586181641,called the resort
+19,b_exp, the,26,5.582265853881836,called the resort
+19,b_exp, next,27,1.76310133934021,called the resort
+19,b_exp, day,28,0.31317561864852905,called the resort
+19,b_exp,.,29,1.0849021673202515,called the resort
+19,b_imp,Hailey's,1,22.64881576506474,called the resort
+19,b_imp, family,2,5.2479119300842285,called the resort
+19,b_imp, just,3,7.101515769958496,called the resort
+19,b_imp, returned,4,4.8778605461120605,called the resort
+19,b_imp, from,5,0.38557004928588867,called the resort
+19,b_imp, a,6,1.4134145975112915,called the resort
+19,b_imp, 10-day,7,6.2609919756650925,called the resort
+19,b_imp, vacation,8,2.1274611949920654,called the resort
+19,b_imp, at,9,3.7232754230499268,called the resort
+19,b_imp, a,10,2.720707893371582,called the resort
+19,b_imp, resort,11,3.261990547180176,called the resort
+19,b_imp,.,12,3.079263210296631,called the resort
+19,b_imp, She,13,2.595611572265625,called the resort
+19,b_imp, couldn't,14,5.628664728777949,called the resort
+19,b_imp, find,15,2.9841177463531494,called the resort
+19,b_imp, her,16,1.6361560821533203,called the resort
+19,b_imp, laptop,17,7.675660610198975,called the resort
+19,b_imp, anywhere,18,5.830832004547119,called the resort
+19,b_imp,.,19,1.4423043727874756,called the resort
+19,b_imp, She,20,2.0371153354644775,called the resort
+19,b_imp, called,21,3.241910934448242,called the resort
+19,b_imp, the,22,2.2679262161254883,called the resort
+19,b_imp, resort,23,7.779385566711426,called the resort
+19,b_imp, the,24,5.402613162994385,called the resort
+19,b_imp, next,25,0.7035804986953735,called the resort
+19,b_imp, day,26,0.2102198451757431,called the resort
+19,b_imp,.,27,1.6083487272262573,called the resort
+20,a_exp,Parker's,1,18.409519833282467,was late
+20,a_exp, Monday,2,9.628310203552246,was late
+20,a_exp, was,3,5.617633819580078,was late
+20,a_exp, awful,4,8.599982261657715,was late
+20,a_exp,.,5,0.808194100856781,was late
+20,a_exp, Parker,6,9.660337448120117,was late
+20,a_exp, slept,7,9.082759857177734,was late
+20,a_exp, through,8,1.7717130184173584,was late
+20,a_exp, his,9,2.494978427886963,was late
+20,a_exp, alarm,10,7.010336875915527,was late
+20,a_exp, clock,11,1.8141173124313354,was late
+20,a_exp,.,12,2.100990056991577,was late
+20,a_exp, Therefore,13,10.824478149414062,was late
+20,a_exp,",",14,0.2878890633583069,was late
+20,a_exp, he,15,1.1918584108352661,was late
+20,a_exp, was,16,2.084075689315796,was late
+20,a_exp, late,17,5.539522171020508,was late
+20,a_exp, for,18,1.5112673044204712,was late
+20,a_exp, work,19,1.4349075555801392,was late
+20,a_exp,.,20,0.9392967820167542,was late
+20,a_imp,Parker's,1,18.409519833282467,was late
+20,a_imp, Monday,2,9.628310203552246,was late
+20,a_imp, was,3,5.617633819580078,was late
+20,a_imp, awful,4,8.599982261657715,was late
+20,a_imp,.,5,0.808194100856781,was late
+20,a_imp, Parker,6,9.660337448120117,was late
+20,a_imp, slept,7,9.082759857177734,was late
+20,a_imp, through,8,1.7717130184173584,was late
+20,a_imp, his,9,2.494978427886963,was late
+20,a_imp, alarm,10,7.010336875915527,was late
+20,a_imp, clock,11,1.8141173124313354,was late
+20,a_imp,.,12,2.100990056991577,was late
+20,a_imp, He,13,1.517288088798523,was late
+20,a_imp, was,14,2.3390109539031982,was late
+20,a_imp, late,15,4.891221046447754,was late
+20,a_imp, for,16,1.0721638202667236,was late
+20,a_imp, work,17,1.527032732963562,was late
+20,a_imp,.,18,1.1895135641098022,was late
+20,b_exp,Parker's,1,18.409519833282467,was late
+20,b_exp, Monday,2,9.628310203552246,was late
+20,b_exp, was,3,5.617633819580078,was late
+20,b_exp, awful,4,8.599982261657715,was late
+20,b_exp,.,5,0.808194100856781,was late
+20,b_exp, Parker,6,9.660337448120117,was late
+20,b_exp, had,7,2.7988474369049072,was late
+20,b_exp, to,8,2.5820443630218506,was late
+20,b_exp, bring,9,6.068974018096924,was late
+20,b_exp, his,10,1.7369991540908813,was late
+20,b_exp, dog,11,4.80516242980957,was late
+20,b_exp, to,12,1.7005069255828857,was late
+20,b_exp, the,13,1.078525185585022,was late
+20,b_exp, vet,14,3.642714738845825,was late
+20,b_exp,.,15,2.3284692764282227,was late
+20,b_exp, Therefore,16,10.29197883605957,was late
+20,b_exp,",",17,0.23968347907066345,was late
+20,b_exp, he,18,1.3657715320587158,was late
+20,b_exp, was,19,2.222073554992676,was late
+20,b_exp, late,20,6.852302074432373,was late
+20,b_exp, for,21,1.5313524007797241,was late
+20,b_exp, work,22,2.281276226043701,was late
+20,b_exp,.,23,1.0698325634002686,was late
+20,b_imp,Parker's,1,18.409519833282467,was late
+20,b_imp, Monday,2,9.628310203552246,was late
+20,b_imp, was,3,5.617633819580078,was late
+20,b_imp, awful,4,8.599982261657715,was late
+20,b_imp,.,5,0.808194100856781,was late
+20,b_imp, Parker,6,9.660337448120117,was late
+20,b_imp, had,7,2.7988474369049072,was late
+20,b_imp, to,8,2.5820443630218506,was late
+20,b_imp, bring,9,6.068974018096924,was late
+20,b_imp, his,10,1.7369991540908813,was late
+20,b_imp, dog,11,4.80516242980957,was late
+20,b_imp, to,12,1.7005069255828857,was late
+20,b_imp, the,13,1.078525185585022,was late
+20,b_imp, vet,14,3.642714738845825,was late
+20,b_imp,.,15,2.3284692764282227,was late
+20,b_imp, He,16,1.755371332168579,was late
+20,b_imp, was,17,2.1073267459869385,was late
+20,b_imp, late,18,6.039820194244385,was late
+20,b_imp, for,19,1.478213906288147,was late
+20,b_imp, work,20,1.4744142293930054,was late
+20,b_imp,.,21,1.6527886390686035,was late
+23,a_exp,Mia,1,15.229184056219875,was out of breath
+23,a_exp, was,2,4.505018711090088,was out of breath
+23,a_exp, over,3,7.361655235290527,was out of breath
+23,a_exp, sixty,4,6.648484230041504,was out of breath
+23,a_exp,.,5,2.4596755504608154,was out of breath
+23,a_exp, She,6,1.6284865140914917,was out of breath
+23,a_exp, had,7,1.7249782085418701,was out of breath
+23,a_exp, just,8,4.109445571899414,was out of breath
+23,a_exp, run,9,5.970462799072266,was out of breath
+23,a_exp, up,10,3.3635659217834473,was out of breath
+23,a_exp, two,11,5.537028789520264,was out of breath
+23,a_exp, flights,12,3.3806257247924805,was out of breath
+23,a_exp, of,13,0.5433194637298584,was out of breath
+23,a_exp, stairs,14,0.020770423114299774,was out of breath
+23,a_exp,.,15,2.536907911300659,was out of breath
+23,a_exp, Therefore,16,10.182307243347168,was out of breath
+23,a_exp,",",17,0.3194078207015991,was out of breath
+23,a_exp, she,18,1.1381345987319946,was out of breath
+23,a_exp, was,19,1.5730293989181519,was out of breath
+23,a_exp, out,20,5.695199966430664,was out of breath
+23,a_exp, of,21,0.37990280985832214,was out of breath
+23,a_exp, breath,22,1.4308269023895264,was out of breath
+23,a_exp, for,23,3.557548999786377,was out of breath
+23,a_exp, a,24,0.8830488920211792,was out of breath
+23,a_exp, minute,25,2.7730491161346436,was out of breath
+23,a_exp,.,26,1.2045645713806152,was out of breath
+23,a_imp,Mia,1,15.229184056219875,was out of breath
+23,a_imp, was,2,4.505018711090088,was out of breath
+23,a_imp, over,3,7.361655235290527,was out of breath
+23,a_imp, sixty,4,6.648484230041504,was out of breath
+23,a_imp,.,5,2.4596755504608154,was out of breath
+23,a_imp, She,6,1.6284865140914917,was out of breath
+23,a_imp, had,7,1.7249782085418701,was out of breath
+23,a_imp, just,8,4.109445571899414,was out of breath
+23,a_imp, run,9,5.970462799072266,was out of breath
+23,a_imp, up,10,3.3635659217834473,was out of breath
+23,a_imp, two,11,5.537028789520264,was out of breath
+23,a_imp, flights,12,3.3806257247924805,was out of breath
+23,a_imp, of,13,0.5433194637298584,was out of breath
+23,a_imp, stairs,14,0.020770423114299774,was out of breath
+23,a_imp,.,15,2.536907911300659,was out of breath
+23,a_imp, She,16,1.8333691358566284,was out of breath
+23,a_imp, was,17,1.4897658824920654,was out of breath
+23,a_imp, out,18,5.7144975662231445,was out of breath
+23,a_imp, of,19,0.6065056920051575,was out of breath
+23,a_imp, breath,20,0.8214643597602844,was out of breath
+23,a_imp, for,21,4.085559844970703,was out of breath
+23,a_imp, a,22,0.7769174575805664,was out of breath
+23,a_imp, minute,23,2.171616315841675,was out of breath
+23,a_imp,.,24,1.573014736175537,was out of breath
+23,b_exp,Mia,1,15.229184056219875,was out of breath
+23,b_exp, was,2,4.505018711090088,was out of breath
+23,b_exp, over,3,7.361655235290527,was out of breath
+23,b_exp, sixty,4,6.648484230041504,was out of breath
+23,b_exp,.,5,2.4596755504608154,was out of breath
+23,b_exp, She,6,1.6284865140914917,was out of breath
+23,b_exp, had,7,1.7249782085418701,was out of breath
+23,b_exp, just,8,4.109445571899414,was out of breath
+23,b_exp, returned,9,3.2884409427642822,was out of breath
+23,b_exp, from,10,0.2810360789299011,was out of breath
+23,b_exp, a,11,1.3822044134140015,was out of breath
+23,b_exp, walk,12,6.251054763793945,was out of breath
+23,b_exp, in,13,1.0850322246551514,was out of breath
+23,b_exp, the,14,0.5325139760971069,was out of breath
+23,b_exp, park,15,1.7576792240142822,was out of breath
+23,b_exp,.,16,1.7358040809631348,was out of breath
+23,b_exp, Therefore,17,10.806401252746582,was out of breath
+23,b_exp,",",18,0.2626799941062927,was out of breath
+23,b_exp, she,19,1.2199974060058594,was out of breath
+23,b_exp, was,20,1.6267446279525757,was out of breath
+23,b_exp, out,21,6.423236846923828,was out of breath
+23,b_exp, of,22,0.5489482879638672,was out of breath
+23,b_exp, breath,23,2.587535858154297,was out of breath
+23,b_exp, for,24,3.432482957839966,was out of breath
+23,b_exp, a,25,0.7025668025016785,was out of breath
+23,b_exp, minute,26,3.224933624267578,was out of breath
+23,b_exp,.,27,1.298870325088501,was out of breath
+23,b_imp,Mia,1,15.229184056219875,was out of breath
+23,b_imp, was,2,4.505018711090088,was out of breath
+23,b_imp, over,3,7.361655235290527,was out of breath
+23,b_imp, sixty,4,6.648484230041504,was out of breath
+23,b_imp,.,5,2.4596755504608154,was out of breath
+23,b_imp, She,6,1.6284865140914917,was out of breath
+23,b_imp, had,7,1.7249782085418701,was out of breath
+23,b_imp, just,8,4.109445571899414,was out of breath
+23,b_imp, returned,9,3.2884409427642822,was out of breath
+23,b_imp, from,10,0.2810360789299011,was out of breath
+23,b_imp, a,11,1.3822044134140015,was out of breath
+23,b_imp, walk,12,6.251054763793945,was out of breath
+23,b_imp, in,13,1.0850322246551514,was out of breath
+23,b_imp, the,14,0.5325139760971069,was out of breath
+23,b_imp, park,15,1.7576792240142822,was out of breath
+23,b_imp,.,16,1.7358040809631348,was out of breath
+23,b_imp, She,17,1.7884718179702759,was out of breath
+23,b_imp, was,18,1.449424386024475,was out of breath
+23,b_imp, out,19,5.842004776000977,was out of breath
+23,b_imp, of,20,1.0556882619857788,was out of breath
+23,b_imp, breath,21,1.574881672859192,was out of breath
+23,b_imp, for,22,4.18682861328125,was out of breath
+23,b_imp, a,23,0.6103928685188293,was out of breath
+23,b_imp, minute,24,2.5234060287475586,was out of breath
+23,b_imp,.,25,1.7628536224365234,was out of breath
+24,a_exp,Kira,1,18.690300389450375,wants to be a vet
+24,a_exp, and,2,3.6284215450286865,wants to be a vet
+24,a_exp, Mo,3,6.963254928588867,wants to be a vet
+24,a_exp, are,4,7.6002678871154785,wants to be a vet
+24,a_exp, discussing,5,7.636321067810059,wants to be a vet
+24,a_exp, what,6,3.1329894065856934,wants to be a vet
+24,a_exp, they,7,1.9973145723342896,wants to be a vet
+24,a_exp, want,8,2.805769443511963,wants to be a vet
+24,a_exp, to,9,0.48549506068229675,wants to be a vet
+24,a_exp, be,10,3.838723659515381,wants to be a vet
+24,a_exp, when,11,2.4486749172210693,wants to be a vet
+24,a_exp, they,12,0.6576077342033386,wants to be a vet
+24,a_exp, grow,13,3.7488815784454346,wants to be a vet
+24,a_exp, up,14,0.09358256310224533,wants to be a vet
+24,a_exp,.,15,0.6923317313194275,wants to be a vet
+24,a_exp, Mo,16,3.882112979888916,wants to be a vet
+24,a_exp, loves,17,7.785980224609375,wants to be a vet
+24,a_exp, animals,18,6.491552829742432,wants to be a vet
+24,a_exp,.,19,2.22969388961792,wants to be a vet
+24,a_exp, Therefore,20,8.50716781616211,wants to be a vet
+24,a_exp,",",21,0.365970641374588,wants to be a vet
+24,a_exp, he,22,1.7567758560180664,wants to be a vet
+24,a_exp, wants,23,1.798938512802124,wants to be a vet
+24,a_exp, to,24,0.3262682259082794,wants to be a vet
+24,a_exp, be,25,1.1901921033859253,wants to be a vet
+24,a_exp, a,26,0.9486593008041382,wants to be a vet
+24,a_exp, vet,27,5.115074634552002,wants to be a vet
+24,a_exp, in,28,4.488284111022949,wants to be a vet
+24,a_exp, the,29,1.798048973083496,wants to be a vet
+24,a_exp, future,30,1.4393095970153809,wants to be a vet
+24,a_exp,.,31,0.3625829219818115,wants to be a vet
+24,a_imp,Kira,1,18.690300389450375,wants to be a vet
+24,a_imp, and,2,3.6284215450286865,wants to be a vet
+24,a_imp, Mo,3,6.963254928588867,wants to be a vet
+24,a_imp, are,4,7.6002678871154785,wants to be a vet
+24,a_imp, discussing,5,7.636321067810059,wants to be a vet
+24,a_imp, what,6,3.1329894065856934,wants to be a vet
+24,a_imp, they,7,1.9973145723342896,wants to be a vet
+24,a_imp, want,8,2.805769443511963,wants to be a vet
+24,a_imp, to,9,0.48549506068229675,wants to be a vet
+24,a_imp, be,10,3.838723659515381,wants to be a vet
+24,a_imp, when,11,2.4486749172210693,wants to be a vet
+24,a_imp, they,12,0.6576077342033386,wants to be a vet
+24,a_imp, grow,13,3.7488815784454346,wants to be a vet
+24,a_imp, up,14,0.09358256310224533,wants to be a vet
+24,a_imp,.,15,0.6923317313194275,wants to be a vet
+24,a_imp, Mo,16,3.882112979888916,wants to be a vet
+24,a_imp, loves,17,7.785980224609375,wants to be a vet
+24,a_imp, animals,18,6.491552829742432,wants to be a vet
+24,a_imp,.,19,2.22969388961792,wants to be a vet
+24,a_imp, He,20,1.9410053491592407,wants to be a vet
+24,a_imp, wants,21,2.768712282180786,wants to be a vet
+24,a_imp, to,22,0.4580006003379822,wants to be a vet
+24,a_imp, be,23,0.9307116866111755,wants to be a vet
+24,a_imp, a,24,0.816325306892395,wants to be a vet
+24,a_imp, vet,25,4.952300071716309,wants to be a vet
+24,a_imp, in,26,4.942464828491211,wants to be a vet
+24,a_imp, the,27,1.8348067998886108,wants to be a vet
+24,a_imp, future,28,1.8200820684432983,wants to be a vet
+24,a_imp,.,29,0.4558938145637512,wants to be a vet
+24,b_exp,Kira,1,18.690300389450375,wants to be a vet
+24,b_exp, and,2,3.6284215450286865,wants to be a vet
+24,b_exp, Mo,3,6.963254928588867,wants to be a vet
+24,b_exp, are,4,7.6002678871154785,wants to be a vet
+24,b_exp, discussing,5,7.636321067810059,wants to be a vet
+24,b_exp, what,6,3.1329894065856934,wants to be a vet
+24,b_exp, they,7,1.9973145723342896,wants to be a vet
+24,b_exp, want,8,2.805769443511963,wants to be a vet
+24,b_exp, to,9,0.48549506068229675,wants to be a vet
+24,b_exp, be,10,3.838723659515381,wants to be a vet
+24,b_exp, when,11,2.4486749172210693,wants to be a vet
+24,b_exp, they,12,0.6576077342033386,wants to be a vet
+24,b_exp, grow,13,3.7488815784454346,wants to be a vet
+24,b_exp, up,14,0.09358256310224533,wants to be a vet
+24,b_exp,.,15,0.6923317313194275,wants to be a vet
+24,b_exp, Mo,16,3.882112979888916,wants to be a vet
+24,b_exp, hates,17,8.684181213378906,wants to be a vet
+24,b_exp, desk,18,12.283812522888184,wants to be a vet
+24,b_exp, work,19,2.3442130088806152,wants to be a vet
+24,b_exp,.,20,1.9789183139801025,wants to be a vet
+24,b_exp, Therefore,21,8.59066104888916,wants to be a vet
+24,b_exp,",",22,0.32012447714805603,wants to be a vet
+24,b_exp, he,23,1.5155186653137207,wants to be a vet
+24,b_exp, wants,24,2.383739709854126,wants to be a vet
+24,b_exp, to,25,0.2506933808326721,wants to be a vet
+24,b_exp, be,26,1.3963291645050049,wants to be a vet
+24,b_exp, a,27,0.8048858046531677,wants to be a vet
+24,b_exp, vet,28,8.633841514587402,wants to be a vet
+24,b_exp, in,29,4.291560173034668,wants to be a vet
+24,b_exp, the,30,1.6437897682189941,wants to be a vet
+24,b_exp, future,31,2.5948970317840576,wants to be a vet
+24,b_exp,.,32,0.40214693546295166,wants to be a vet
+24,b_imp,Kira,1,18.690300389450375,wants to be a vet
+24,b_imp, and,2,3.6284215450286865,wants to be a vet
+24,b_imp, Mo,3,6.963254928588867,wants to be a vet
+24,b_imp, are,4,7.6002678871154785,wants to be a vet
+24,b_imp, discussing,5,7.636321067810059,wants to be a vet
+24,b_imp, what,6,3.1329894065856934,wants to be a vet
+24,b_imp, they,7,1.9973145723342896,wants to be a vet
+24,b_imp, want,8,2.805769443511963,wants to be a vet
+24,b_imp, to,9,0.48549506068229675,wants to be a vet
+24,b_imp, be,10,3.838723659515381,wants to be a vet
+24,b_imp, when,11,2.4486749172210693,wants to be a vet
+24,b_imp, they,12,0.6576077342033386,wants to be a vet
+24,b_imp, grow,13,3.7488815784454346,wants to be a vet
+24,b_imp, up,14,0.09358256310224533,wants to be a vet
+24,b_imp,.,15,0.6923317313194275,wants to be a vet
+24,b_imp, Mo,16,3.882112979888916,wants to be a vet
+24,b_imp, hates,17,8.684181213378906,wants to be a vet
+24,b_imp, desk,18,12.283812522888184,wants to be a vet
+24,b_imp, work,19,2.3442130088806152,wants to be a vet
+24,b_imp,.,20,1.9789183139801025,wants to be a vet
+24,b_imp, He,21,1.8284543752670288,wants to be a vet
+24,b_imp, wants,22,2.7332544326782227,wants to be a vet
+24,b_imp, to,23,0.3599754273891449,wants to be a vet
+24,b_imp, be,24,1.1161781549453735,wants to be a vet
+24,b_imp, a,25,0.8107805848121643,wants to be a vet
+24,b_imp, vet,26,7.941732883453369,wants to be a vet
+24,b_imp, in,27,4.672059059143066,wants to be a vet
+24,b_imp, the,28,1.7895206212997437,wants to be a vet
+24,b_imp, future,29,3.0426244735717773,wants to be a vet
+24,b_imp,.,30,0.591215193271637,wants to be a vet
+25,a_exp,Ken,1,11.788678966556736,decided to part ways
+25,a_exp, and,2,4.139852523803711,decided to part ways
+25,a_exp, Irene,3,8.005574136041105,decided to part ways
+25,a_exp, went,4,6.425113677978516,decided to part ways
+25,a_exp, on,5,2.453099012374878,decided to part ways
+25,a_exp, a,6,2.154545545578003,decided to part ways
+25,a_exp, first,7,6.677221775054932,decided to part ways
+25,a_exp, date,8,0.2023601233959198,decided to part ways
+25,a_exp, last,9,4.117169380187988,decided to part ways
+25,a_exp, night,10,2.691645622253418,decided to part ways
+25,a_exp,.,11,1.4264655113220215,decided to part ways
+25,a_exp, They,12,2.1689507961273193,decided to part ways
+25,a_exp, did,13,5.151270866394043,decided to part ways
+25,a_exp, not,14,0.9505822658538818,decided to part ways
+25,a_exp, have,15,2.454052209854126,decided to part ways
+25,a_exp, anything,16,4.405886650085449,decided to part ways
+25,a_exp, in,17,2.056434154510498,decided to part ways
+25,a_exp, common,18,0.07277071475982666,decided to part ways
+25,a_exp,.,19,1.3590096235275269,decided to part ways
+25,a_exp, Therefore,20,9.723817825317383,decided to part ways
+25,a_exp,",",21,0.4351116120815277,decided to part ways
+25,a_exp, they,22,1.5095548629760742,decided to part ways
+25,a_exp, decided,23,2.3954761028289795,decided to part ways
+25,a_exp, to,24,0.19074776768684387,decided to part ways
+25,a_exp, part,25,7.9141411781311035,decided to part ways
+25,a_exp, ways,26,0.06919486820697784,decided to part ways
+25,a_exp, for,27,4.473224639892578,decided to part ways
+25,a_exp, now,28,3.2727012634277344,decided to part ways
+25,a_exp,.,29,0.3497675955295563,decided to part ways
+25,a_imp,Ken,1,11.788678966556736,decided to part ways
+25,a_imp, and,2,4.139852523803711,decided to part ways
+25,a_imp, Irene,3,8.005574136041105,decided to part ways
+25,a_imp, went,4,6.425113677978516,decided to part ways
+25,a_imp, on,5,2.453099012374878,decided to part ways
+25,a_imp, a,6,2.154545545578003,decided to part ways
+25,a_imp, first,7,6.677221775054932,decided to part ways
+25,a_imp, date,8,0.2023601233959198,decided to part ways
+25,a_imp, last,9,4.117169380187988,decided to part ways
+25,a_imp, night,10,2.691645622253418,decided to part ways
+25,a_imp,.,11,1.4264655113220215,decided to part ways
+25,a_imp, They,12,2.1689507961273193,decided to part ways
+25,a_imp, did,13,5.151270866394043,decided to part ways
+25,a_imp, not,14,0.9505822658538818,decided to part ways
+25,a_imp, have,15,2.454052209854126,decided to part ways
+25,a_imp, anything,16,4.405886650085449,decided to part ways
+25,a_imp, in,17,2.056434154510498,decided to part ways
+25,a_imp, common,18,0.07277071475982666,decided to part ways
+25,a_imp,.,19,1.3590096235275269,decided to part ways
+25,a_imp, They,20,1.9504485130310059,decided to part ways
+25,a_imp, decided,21,5.655062198638916,decided to part ways
+25,a_imp, to,22,0.38868385553359985,decided to part ways
+25,a_imp, part,23,7.952359199523926,decided to part ways
+25,a_imp, ways,24,0.07194315642118454,decided to part ways
+25,a_imp, for,25,4.20803689956665,decided to part ways
+25,a_imp, now,26,3.557765483856201,decided to part ways
+25,a_imp,.,27,0.606835126876831,decided to part ways
+25,b_exp,Ken,1,11.788678966556736,decided to part ways
+25,b_exp, and,2,4.139852523803711,decided to part ways
+25,b_exp, Irene,3,8.005574136041105,decided to part ways
+25,b_exp, had,4,4.718425750732422,decided to part ways
+25,b_exp, a,5,2.8832807540893555,decided to part ways
+25,b_exp, heated,6,5.93140983581543,decided to part ways
+25,b_exp, discussion,7,2.7479217052459717,decided to part ways
+25,b_exp, last,8,5.689152717590332,decided to part ways
+25,b_exp, night,9,1.1873801946640015,decided to part ways
+25,b_exp,.,10,1.866641879081726,decided to part ways
+25,b_exp, They,11,2.6060218811035156,decided to part ways
+25,b_exp, had,12,2.9802517890930176,decided to part ways
+25,b_exp, opposing,13,9.424839973449707,decided to part ways
+25,b_exp, political,14,6.582588195800781,decided to part ways
+25,b_exp, views,15,0.34628087282180786,decided to part ways
+25,b_exp,.,16,1.8249105215072632,decided to part ways
+25,b_exp, Therefore,17,8.474126815795898,decided to part ways
+25,b_exp,",",18,0.3709864616394043,decided to part ways
+25,b_exp, they,19,1.6103768348693848,decided to part ways
+25,b_exp, decided,20,2.3678808212280273,decided to part ways
+25,b_exp, to,21,0.27292975783348083,decided to part ways
+25,b_exp, part,22,7.533599853515625,decided to part ways
+25,b_exp, ways,23,0.014443725347518921,decided to part ways
+25,b_exp, for,24,4.541460990905762,decided to part ways
+25,b_exp, now,25,3.122049570083618,decided to part ways
+25,b_exp,.,26,0.34141474962234497,decided to part ways
+25,b_imp,Ken,1,11.788678966556736,decided to part ways
+25,b_imp, and,2,4.139852523803711,decided to part ways
+25,b_imp, Irene,3,8.005574136041105,decided to part ways
+25,b_imp, had,4,4.718425750732422,decided to part ways
+25,b_imp, a,5,2.8832807540893555,decided to part ways
+25,b_imp, heated,6,5.93140983581543,decided to part ways
+25,b_imp, discussion,7,2.7479217052459717,decided to part ways
+25,b_imp, last,8,5.689152717590332,decided to part ways
+25,b_imp, night,9,1.1873801946640015,decided to part ways
+25,b_imp,.,10,1.866641879081726,decided to part ways
+25,b_imp, They,11,2.6060218811035156,decided to part ways
+25,b_imp, had,12,2.9802517890930176,decided to part ways
+25,b_imp, opposing,13,9.424839973449707,decided to part ways
+25,b_imp, political,14,6.582588195800781,decided to part ways
+25,b_imp, views,15,0.34628087282180786,decided to part ways
+25,b_imp,.,16,1.8249105215072632,decided to part ways
+25,b_imp, They,17,1.7728177309036255,decided to part ways
+25,b_imp, decided,18,6.139069080352783,decided to part ways
+25,b_imp, to,19,0.6421657204627991,decided to part ways
+25,b_imp, part,20,7.391279220581055,decided to part ways
+25,b_imp, ways,21,0.011500728316605091,decided to part ways
+25,b_imp, for,22,4.386839866638184,decided to part ways
+25,b_imp, now,23,3.5255308151245117,decided to part ways
+25,b_imp,.,24,0.4938769042491913,decided to part ways
+26,a_exp,Fiona,1,19.497308517655334,filed for divorce
+26,a_exp, and,2,3.3917438983917236,filed for divorce
+26,a_exp, her,3,2.987713098526001,filed for divorce
+26,a_exp, husband,4,2.0840225219726562,filed for divorce
+26,a_exp, had,5,4.873906135559082,filed for divorce
+26,a_exp, been,6,1.534530520439148,filed for divorce
+26,a_exp, married,7,3.2765815258026123,filed for divorce
+26,a_exp, for,8,0.7871889472007751,filed for divorce
+26,a_exp, five,9,3.48819637298584,filed for divorce
+26,a_exp, years,10,0.1266361027956009,filed for divorce
+26,a_exp,.,11,0.9500224590301514,filed for divorce
+26,a_exp, Fiona,12,4.098757743835449,filed for divorce
+26,a_exp, caught,13,9.620695114135742,filed for divorce
+26,a_exp, him,14,4.78181266784668,filed for divorce
+26,a_exp, cheating,15,5.013453483581543,filed for divorce
+26,a_exp, on,16,0.4298342764377594,filed for divorce
+26,a_exp, her,17,0.284071147441864,filed for divorce
+26,a_exp,.,18,2.281780242919922,filed for divorce
+26,a_exp, Therefore,19,9.70720100402832,filed for divorce
+26,a_exp,",",20,0.5616583824157715,filed for divorce
+26,a_exp, she,21,1.345888376235962,filed for divorce
+26,a_exp, filed,22,6.596436500549316,filed for divorce
+26,a_exp, for,23,2.472137212753296,filed for divorce
+26,a_exp, divorce,24,0.07599126547574997,filed for divorce
+26,a_exp, immediately,25,4.933475017547607,filed for divorce
+26,a_exp,.,26,0.8285455703735352,filed for divorce
+26,a_imp,Fiona,1,19.497308517655334,filed for divorce
+26,a_imp, and,2,3.3917438983917236,filed for divorce
+26,a_imp, her,3,2.987713098526001,filed for divorce
+26,a_imp, husband,4,2.0840225219726562,filed for divorce
+26,a_imp, had,5,4.873906135559082,filed for divorce
+26,a_imp, been,6,1.534530520439148,filed for divorce
+26,a_imp, married,7,3.2765815258026123,filed for divorce
+26,a_imp, for,8,0.7871889472007751,filed for divorce
+26,a_imp, five,9,3.48819637298584,filed for divorce
+26,a_imp, years,10,0.1266361027956009,filed for divorce
+26,a_imp,.,11,0.9500224590301514,filed for divorce
+26,a_imp, Fiona,12,4.098757743835449,filed for divorce
+26,a_imp, caught,13,9.620695114135742,filed for divorce
+26,a_imp, him,14,4.78181266784668,filed for divorce
+26,a_imp, cheating,15,5.013453483581543,filed for divorce
+26,a_imp, on,16,0.4298342764377594,filed for divorce
+26,a_imp, her,17,0.284071147441864,filed for divorce
+26,a_imp,.,18,2.281780242919922,filed for divorce
+26,a_imp, She,19,1.6968098878860474,filed for divorce
+26,a_imp, filed,20,7.839979648590088,filed for divorce
+26,a_imp, for,21,2.6934292316436768,filed for divorce
+26,a_imp, divorce,22,0.08495251089334488,filed for divorce
+26,a_imp, immediately,23,5.941202640533447,filed for divorce
+26,a_imp,.,24,1.5277738571166992,filed for divorce
+26,b_exp,Fiona,1,19.497308517655334,filed for divorce
+26,b_exp, and,2,3.3917438983917236,filed for divorce
+26,b_exp, her,3,2.987713098526001,filed for divorce
+26,b_exp, husband,4,2.0840225219726562,filed for divorce
+26,b_exp, had,5,4.873906135559082,filed for divorce
+26,b_exp, been,6,1.534530520439148,filed for divorce
+26,b_exp, married,7,3.2765815258026123,filed for divorce
+26,b_exp, for,8,0.7871889472007751,filed for divorce
+26,b_exp, five,9,3.48819637298584,filed for divorce
+26,b_exp, years,10,0.1266361027956009,filed for divorce
+26,b_exp,.,11,0.9500224590301514,filed for divorce
+26,b_exp, Fiona,12,4.098757743835449,filed for divorce
+26,b_exp, found,13,6.318548202514648,filed for divorce
+26,b_exp, out,14,1.8660762310028076,filed for divorce
+26,b_exp, that,15,1.4608919620513916,filed for divorce
+26,b_exp, he,16,4.006439208984375,filed for divorce
+26,b_exp, had,17,1.0021536350250244,filed for divorce
+26,b_exp, a,18,2.6259865760803223,filed for divorce
+26,b_exp, gambling,19,6.141802787780762,filed for divorce
+26,b_exp, addiction,20,1.4025747776031494,filed for divorce
+26,b_exp,.,21,1.9547054767608643,filed for divorce
+26,b_exp, Therefore,22,8.321232795715332,filed for divorce
+26,b_exp,",",23,0.5981057286262512,filed for divorce
+26,b_exp, she,24,0.7122403383255005,filed for divorce
+26,b_exp, filed,25,5.854488372802734,filed for divorce
+26,b_exp, for,26,1.7522753477096558,filed for divorce
+26,b_exp, divorce,27,0.09200894832611084,filed for divorce
+26,b_exp, immediately,28,5.287570476531982,filed for divorce
+26,b_exp,.,29,0.7487574815750122,filed for divorce
+26,b_imp,Fiona,1,19.497308517655334,filed for divorce
+26,b_imp, and,2,3.3917438983917236,filed for divorce
+26,b_imp, her,3,2.987713098526001,filed for divorce
+26,b_imp, husband,4,2.0840225219726562,filed for divorce
+26,b_imp, had,5,4.873906135559082,filed for divorce
+26,b_imp, been,6,1.534530520439148,filed for divorce
+26,b_imp, married,7,3.2765815258026123,filed for divorce
+26,b_imp, for,8,0.7871889472007751,filed for divorce
+26,b_imp, five,9,3.48819637298584,filed for divorce
+26,b_imp, years,10,0.1266361027956009,filed for divorce
+26,b_imp,.,11,0.9500224590301514,filed for divorce
+26,b_imp, Fiona,12,4.098757743835449,filed for divorce
+26,b_imp, found,13,6.318548202514648,filed for divorce
+26,b_imp, out,14,1.8660762310028076,filed for divorce
+26,b_imp, that,15,1.4608919620513916,filed for divorce
+26,b_imp, he,16,4.006439208984375,filed for divorce
+26,b_imp, had,17,1.0021536350250244,filed for divorce
+26,b_imp, a,18,2.6259865760803223,filed for divorce
+26,b_imp, gambling,19,6.141802787780762,filed for divorce
+26,b_imp, addiction,20,1.4025747776031494,filed for divorce
+26,b_imp,.,21,1.9547054767608643,filed for divorce
+26,b_imp, She,22,1.401814579963684,filed for divorce
+26,b_imp, filed,23,6.375853061676025,filed for divorce
+26,b_imp, for,24,1.9900578260421753,filed for divorce
+26,b_imp, divorce,25,0.1135409027338028,filed for divorce
+26,b_imp, immediately,26,5.838108062744141,filed for divorce
+26,b_imp,.,27,1.444760799407959,filed for divorce
+28,a_exp,Diana,1,17.752477949068478,bought a bicycle
+28,a_exp, had,2,5.7217020988464355,bought a bicycle
+28,a_exp, just,3,4.066105842590332,bought a bicycle
+28,a_exp, started,4,3.564701557159424,bought a bicycle
+28,a_exp, a,5,3.0305075645446777,bought a bicycle
+28,a_exp, new,6,1.2378220558166504,bought a bicycle
+28,a_exp, job,7,0.9365993142127991,bought a bicycle
+28,a_exp, that,8,4.383153915405273,bought a bicycle
+28,a_exp, was,9,2.163315773010254,bought a bicycle
+28,a_exp, 4,10,9.721224784851074,bought a bicycle
+28,a_exp, miles,11,5.862283229827881,bought a bicycle
+28,a_exp, away,12,1.0572272539138794,bought a bicycle
+28,a_exp, from,13,0.8692003488540649,bought a bicycle
+28,a_exp, her,14,1.0127301216125488,bought a bicycle
+28,a_exp, home,15,1.0087385177612305,bought a bicycle
+28,a_exp,.,16,1.2785181999206543,bought a bicycle
+28,a_exp, She,17,1.5635335445404053,bought a bicycle
+28,a_exp, was,18,1.584419846534729,bought a bicycle
+28,a_exp, looking,19,4.329642295837402,bought a bicycle
+28,a_exp, for,20,0.5242231488227844,bought a bicycle
+28,a_exp, a,21,0.8051206469535828,bought a bicycle
+28,a_exp, healthy,22,8.043164253234863,bought a bicycle
+28,a_exp, way,23,4.028412818908691,bought a bicycle
+28,a_exp, to,24,0.0737655907869339,bought a bicycle
+28,a_exp, commute,25,7.73785400390625,bought a bicycle
+28,a_exp, to,26,1.6240923404693604,bought a bicycle
+28,a_exp, work,27,0.4767691493034363,bought a bicycle
+28,a_exp,.,28,1.1140222549438477,bought a bicycle
+28,a_exp, Therefore,29,8.44375991821289,bought a bicycle
+28,a_exp,",",30,0.174734428524971,bought a bicycle
+28,a_exp, she,31,0.5696238279342651,bought a bicycle
+28,a_exp, bought,32,4.5308122634887695,bought a bicycle
+28,a_exp, a,33,0.5699105858802795,bought a bicycle
+28,a_exp, bicycle,34,3.4663243293762207,bought a bicycle
+28,a_exp, for,35,3.1764588356018066,bought a bicycle
+28,a_exp, sale,36,5.9382100105285645,bought a bicycle
+28,a_exp,.,37,1.2588845491409302,bought a bicycle
+28,a_imp,Diana,1,17.752477949068478,bought a bicycle
+28,a_imp, had,2,5.7217020988464355,bought a bicycle
+28,a_imp, just,3,4.066105842590332,bought a bicycle
+28,a_imp, started,4,3.564701557159424,bought a bicycle
+28,a_imp, a,5,3.0305075645446777,bought a bicycle
+28,a_imp, new,6,1.2378220558166504,bought a bicycle
+28,a_imp, job,7,0.9365993142127991,bought a bicycle
+28,a_imp, that,8,4.383153915405273,bought a bicycle
+28,a_imp, was,9,2.163315773010254,bought a bicycle
+28,a_imp, 4,10,9.721224784851074,bought a bicycle
+28,a_imp, miles,11,5.862283229827881,bought a bicycle
+28,a_imp, away,12,1.0572272539138794,bought a bicycle
+28,a_imp, from,13,0.8692003488540649,bought a bicycle
+28,a_imp, her,14,1.0127301216125488,bought a bicycle
+28,a_imp, home,15,1.0087385177612305,bought a bicycle
+28,a_imp,.,16,1.2785181999206543,bought a bicycle
+28,a_imp, She,17,1.5635335445404053,bought a bicycle
+28,a_imp, was,18,1.584419846534729,bought a bicycle
+28,a_imp, looking,19,4.329642295837402,bought a bicycle
+28,a_imp, for,20,0.5242231488227844,bought a bicycle
+28,a_imp, a,21,0.8051206469535828,bought a bicycle
+28,a_imp, healthy,22,8.043164253234863,bought a bicycle
+28,a_imp, way,23,4.028412818908691,bought a bicycle
+28,a_imp, to,24,0.0737655907869339,bought a bicycle
+28,a_imp, commute,25,7.73785400390625,bought a bicycle
+28,a_imp, to,26,1.6240923404693604,bought a bicycle
+28,a_imp, work,27,0.4767691493034363,bought a bicycle
+28,a_imp,.,28,1.1140222549438477,bought a bicycle
+28,a_imp, She,29,1.7896770238876343,bought a bicycle
+28,a_imp, bought,30,5.292919158935547,bought a bicycle
+28,a_imp, a,31,0.6090008020401001,bought a bicycle
+28,a_imp, bicycle,32,3.8197546005249023,bought a bicycle
+28,a_imp, for,33,2.766862392425537,bought a bicycle
+28,a_imp, sale,34,6.385732173919678,bought a bicycle
+28,a_imp,.,35,1.8832347393035889,bought a bicycle
+28,b_exp,Diana,1,17.752477949068478,bought a bicycle
+28,b_exp, had,2,5.7217020988464355,bought a bicycle
+28,b_exp, been,3,2.1053287982940674,bought a bicycle
+28,b_exp, playing,4,5.486602783203125,bought a bicycle
+28,b_exp, football,5,4.893538475036621,bought a bicycle
+28,b_exp, since,6,3.0602211952209473,bought a bicycle
+28,b_exp, she,7,1.2935287952423096,bought a bicycle
+28,b_exp, was,8,0.06769824773073196,bought a bicycle
+28,b_exp, ten,9,4.639098167419434,bought a bicycle
+28,b_exp,.,10,1.6129257678985596,bought a bicycle
+28,b_exp, She,11,1.4513213634490967,bought a bicycle
+28,b_exp, wanted,12,4.349362373352051,bought a bicycle
+28,b_exp, to,13,0.13953964412212372,bought a bicycle
+28,b_exp, try,14,4.777931213378906,bought a bicycle
+28,b_exp, something,15,3.192380666732788,bought a bicycle
+28,b_exp, different,16,1.4338749647140503,bought a bicycle
+28,b_exp,.,17,1.1557492017745972,bought a bicycle
+28,b_exp, Therefore,18,8.696767807006836,bought a bicycle
+28,b_exp,",",19,0.2009117603302002,bought a bicycle
+28,b_exp, she,20,0.5492738485336304,bought a bicycle
+28,b_exp, bought,21,4.508049964904785,bought a bicycle
+28,b_exp, a,22,0.6296444535255432,bought a bicycle
+28,b_exp, bicycle,23,5.240594387054443,bought a bicycle
+28,b_exp, for,24,3.2284610271453857,bought a bicycle
+28,b_exp, sale,25,6.214042663574219,bought a bicycle
+28,b_exp,.,26,1.32143235206604,bought a bicycle
+28,b_imp,Diana,1,17.752477949068478,bought a bicycle
+28,b_imp, had,2,5.7217020988464355,bought a bicycle
+28,b_imp, been,3,2.1053287982940674,bought a bicycle
+28,b_imp, playing,4,5.486602783203125,bought a bicycle
+28,b_imp, football,5,4.893538475036621,bought a bicycle
+28,b_imp, since,6,3.0602211952209473,bought a bicycle
+28,b_imp, she,7,1.2935287952423096,bought a bicycle
+28,b_imp, was,8,0.06769824773073196,bought a bicycle
+28,b_imp, ten,9,4.639098167419434,bought a bicycle
+28,b_imp,.,10,1.6129257678985596,bought a bicycle
+28,b_imp, She,11,1.4513213634490967,bought a bicycle
+28,b_imp, wanted,12,4.349362373352051,bought a bicycle
+28,b_imp, to,13,0.13953964412212372,bought a bicycle
+28,b_imp, try,14,4.777931213378906,bought a bicycle
+28,b_imp, something,15,3.192380666732788,bought a bicycle
+28,b_imp, different,16,1.4338749647140503,bought a bicycle
+28,b_imp,.,17,1.1557492017745972,bought a bicycle
+28,b_imp, She,18,1.554571509361267,bought a bicycle
+28,b_imp, bought,19,5.852270126342773,bought a bicycle
+28,b_imp, a,20,0.6668698191642761,bought a bicycle
+28,b_imp, bicycle,21,5.227202415466309,bought a bicycle
+28,b_imp, for,22,2.801307201385498,bought a bicycle
+28,b_imp, sale,23,6.731302738189697,bought a bicycle
+28,b_imp,.,24,1.9834213256835938,bought a bicycle
+29,a_exp,Rose,1,10.70644959910328,broke up with him
+29,a_exp, and,2,3.543139934539795,broke up with him
+29,a_exp, Ted,3,7.201101303100586,broke up with him
+29,a_exp, had,4,4.454955101013184,broke up with him
+29,a_exp, been,5,2.1025447845458984,broke up with him
+29,a_exp, dating,6,4.769255638122559,broke up with him
+29,a_exp, for,7,0.38630014657974243,broke up with him
+29,a_exp, ten,8,5.388948440551758,broke up with him
+29,a_exp, months,9,2.473039150238037,broke up with him
+29,a_exp,.,10,1.2583953142166138,broke up with him
+29,a_exp, Rose,11,7.942747592926025,broke up with him
+29,a_exp, realized,12,6.9215850830078125,broke up with him
+29,a_exp, she,13,2.175705671310425,broke up with him
+29,a_exp, did,14,4.921685218811035,broke up with him
+29,a_exp, not,15,0.17871618270874023,broke up with him
+29,a_exp, love,16,4.181166648864746,broke up with him
+29,a_exp, him,17,1.3707599639892578,broke up with him
+29,a_exp, anymore,18,3.397634506225586,broke up with him
+29,a_exp,.,19,1.2321799993515015,broke up with him
+29,a_exp, Therefore,20,7.924450874328613,broke up with him
+29,a_exp,",",21,0.3146649897098541,broke up with him
+29,a_exp, she,22,0.41936004161834717,broke up with him
+29,a_exp, broke,23,5.029046058654785,broke up with him
+29,a_exp, up,24,0.3867630958557129,broke up with him
+29,a_exp, with,25,0.03521387651562691,broke up with him
+29,a_exp, him,26,0.5499216914176941,broke up with him
+29,a_exp, without,27,5.433535099029541,broke up with him
+29,a_exp, warning,28,2.257030963897705,broke up with him
+29,a_exp,.,29,0.4810487926006317,broke up with him
+29,a_imp,Rose,1,10.70644959910328,broke up with him
+29,a_imp, and,2,3.543139934539795,broke up with him
+29,a_imp, Ted,3,7.201101303100586,broke up with him
+29,a_imp, had,4,4.454955101013184,broke up with him
+29,a_imp, been,5,2.1025447845458984,broke up with him
+29,a_imp, dating,6,4.769255638122559,broke up with him
+29,a_imp, for,7,0.38630014657974243,broke up with him
+29,a_imp, ten,8,5.388948440551758,broke up with him
+29,a_imp, months,9,2.473039150238037,broke up with him
+29,a_imp,.,10,1.2583953142166138,broke up with him
+29,a_imp, Rose,11,7.942747592926025,broke up with him
+29,a_imp, realized,12,6.9215850830078125,broke up with him
+29,a_imp, she,13,2.175705671310425,broke up with him
+29,a_imp, did,14,4.921685218811035,broke up with him
+29,a_imp, not,15,0.17871618270874023,broke up with him
+29,a_imp, love,16,4.181166648864746,broke up with him
+29,a_imp, him,17,1.3707599639892578,broke up with him
+29,a_imp, anymore,18,3.397634506225586,broke up with him
+29,a_imp,.,19,1.2321799993515015,broke up with him
+29,a_imp, She,20,1.4645509719848633,broke up with him
+29,a_imp, broke,21,5.901430130004883,broke up with him
+29,a_imp, up,22,0.5323055982589722,broke up with him
+29,a_imp, with,23,0.030818937346339226,broke up with him
+29,a_imp, him,24,0.6107960343360901,broke up with him
+29,a_imp, without,25,5.853322505950928,broke up with him
+29,a_imp, warning,26,2.07415771484375,broke up with him
+29,a_imp,.,27,0.9824782013893127,broke up with him
+29,b_exp,Rose,1,10.70644959910328,broke up with him
+29,b_exp, and,2,3.543139934539795,broke up with him
+29,b_exp, Ted,3,7.201101303100586,broke up with him
+29,b_exp, had,4,4.454955101013184,broke up with him
+29,b_exp, been,5,2.1025447845458984,broke up with him
+29,b_exp, dating,6,4.769255638122559,broke up with him
+29,b_exp, for,7,0.38630014657974243,broke up with him
+29,b_exp, four,8,3.465608596801758,broke up with him
+29,b_exp, months,9,1.8111772537231445,broke up with him
+29,b_exp,.,10,1.2951220273971558,broke up with him
+29,b_exp, Rose,11,8.042438507080078,broke up with him
+29,b_exp, had,12,1.595392107963562,broke up with him
+29,b_exp, been,13,1.8055237531661987,broke up with him
+29,b_exp, picking,14,7.683465003967285,broke up with him
+29,b_exp, up,15,0.6134923696517944,broke up with him
+29,b_exp, after,16,6.550323009490967,broke up with him
+29,b_exp, him,17,3.096242666244507,broke up with him
+29,b_exp,.,18,2.8184359073638916,broke up with him
+29,b_exp, Therefore,19,9.930559158325195,broke up with him
+29,b_exp,",",20,0.27366435527801514,broke up with him
+29,b_exp, she,21,2.109388589859009,broke up with him
+29,b_exp, broke,22,7.765907287597656,broke up with him
+29,b_exp, up,23,0.37308043241500854,broke up with him
+29,b_exp, with,24,0.06093120947480202,broke up with him
+29,b_exp, him,25,1.0596611499786377,broke up with him
+29,b_exp, without,26,5.210379600524902,broke up with him
+29,b_exp, warning,27,2.2773470878601074,broke up with him
+29,b_exp,.,28,0.5445097088813782,broke up with him
+29,b_imp,Rose,1,10.70644959910328,broke up with him
+29,b_imp, and,2,3.543139934539795,broke up with him
+29,b_imp, Ted,3,7.201101303100586,broke up with him
+29,b_imp, had,4,4.454955101013184,broke up with him
+29,b_imp, been,5,2.1025447845458984,broke up with him
+29,b_imp, dating,6,4.769255638122559,broke up with him
+29,b_imp, for,7,0.38630014657974243,broke up with him
+29,b_imp, four,8,3.465608596801758,broke up with him
+29,b_imp, months,9,1.8111772537231445,broke up with him
+29,b_imp,.,10,1.2951220273971558,broke up with him
+29,b_imp, Rose,11,8.042438507080078,broke up with him
+29,b_imp, had,12,1.595392107963562,broke up with him
+29,b_imp, been,13,1.8055237531661987,broke up with him
+29,b_imp, picking,14,7.683465003967285,broke up with him
+29,b_imp, up,15,0.6134923696517944,broke up with him
+29,b_imp, after,16,6.550323009490967,broke up with him
+29,b_imp, him,17,3.096242666244507,broke up with him
+29,b_imp,.,18,2.8184359073638916,broke up with him
+29,b_imp, She,19,2.6489124298095703,broke up with him
+29,b_imp, broke,20,8.005830764770508,broke up with him
+29,b_imp, up,21,0.3879319131374359,broke up with him
+29,b_imp, with,22,0.05376249924302101,broke up with him
+29,b_imp, him,23,1.0003001689910889,broke up with him
+29,b_imp, without,24,6.578666687011719,broke up with him
+29,b_imp, warning,25,1.811253547668457,broke up with him
+29,b_imp,.,26,1.1207274198532104,broke up with him
+30,a_exp,Dylan,1,18.909181898043087,took the stairs
+30,a_exp, and,2,4.207118511199951,took the stairs
+30,a_exp, his,3,3.0434741973876953,took the stairs
+30,a_exp, colleagues,4,4.600276947021484,took the stairs
+30,a_exp, worked,5,5.96898078918457,took the stairs
+30,a_exp, on,6,2.001631021499634,took the stairs
+30,a_exp, the,7,1.3847500085830688,took the stairs
+30,a_exp, eleventh,8,12.541155584156513,took the stairs
+30,a_exp, floor,9,3.4748966693878174,took the stairs
+30,a_exp,.,10,3.832188606262207,took the stairs
+30,a_exp, Dylan,11,5.613600730895996,took the stairs
+30,a_exp, saw,12,6.072319030761719,took the stairs
+30,a_exp, that,13,2.4509496688842773,took the stairs
+30,a_exp, the,14,1.5056633949279785,took the stairs
+30,a_exp, elevator,15,5.9468584060668945,took the stairs
+30,a_exp, was,16,1.3799078464508057,took the stairs
+30,a_exp, out,17,5.613456726074219,took the stairs
+30,a_exp, of,18,0.7258380055427551,took the stairs
+30,a_exp, order,19,2.2195563316345215,took the stairs
+30,a_exp,.,20,1.6865218877792358,took the stairs
+30,a_exp, Therefore,21,7.700803756713867,took the stairs
+30,a_exp,",",22,0.2884386479854584,took the stairs
+30,a_exp, he,23,0.7656350135803223,took the stairs
+30,a_exp, took,24,3.676992893218994,took the stairs
+30,a_exp, the,25,1.357657551765442,took the stairs
+30,a_exp, stairs,26,2.944918394088745,took the stairs
+30,a_exp, to,27,1.854758858680725,took the stairs
+30,a_exp, his,28,2.4871182441711426,took the stairs
+30,a_exp, office,29,2.4334218502044678,took the stairs
+30,a_exp,.,30,1.2493032217025757,took the stairs
+30,a_imp,Dylan,1,18.909181898043087,took the stairs
+30,a_imp, and,2,4.207118511199951,took the stairs
+30,a_imp, his,3,3.0434741973876953,took the stairs
+30,a_imp, colleagues,4,4.600276947021484,took the stairs
+30,a_imp, worked,5,5.96898078918457,took the stairs
+30,a_imp, on,6,2.001631021499634,took the stairs
+30,a_imp, the,7,1.3847500085830688,took the stairs
+30,a_imp, eleventh,8,12.541155584156513,took the stairs
+30,a_imp, floor,9,3.4748966693878174,took the stairs
+30,a_imp,.,10,3.832188606262207,took the stairs
+30,a_imp, Dylan,11,5.613600730895996,took the stairs
+30,a_imp, saw,12,6.072319030761719,took the stairs
+30,a_imp, that,13,2.4509496688842773,took the stairs
+30,a_imp, the,14,1.5056633949279785,took the stairs
+30,a_imp, elevator,15,5.9468584060668945,took the stairs
+30,a_imp, was,16,1.3799078464508057,took the stairs
+30,a_imp, out,17,5.613456726074219,took the stairs
+30,a_imp, of,18,0.7258380055427551,took the stairs
+30,a_imp, order,19,2.2195563316345215,took the stairs
+30,a_imp,.,20,1.6865218877792358,took the stairs
+30,a_imp, He,21,1.0574018955230713,took the stairs
+30,a_imp, took,22,3.8668553829193115,took the stairs
+30,a_imp, the,23,1.4749860763549805,took the stairs
+30,a_imp, stairs,24,3.260028123855591,took the stairs
+30,a_imp, to,25,1.8401379585266113,took the stairs
+30,a_imp, his,26,2.272674083709717,took the stairs
+30,a_imp, office,27,2.336681842803955,took the stairs
+30,a_imp,.,28,1.7211360931396484,took the stairs
+30,b_exp,Dylan,1,18.909181898043087,took the stairs
+30,b_exp, and,2,4.207118511199951,took the stairs
+30,b_exp, his,3,3.0434741973876953,took the stairs
+30,b_exp, colleagues,4,4.600276947021484,took the stairs
+30,b_exp, were,5,2.977952718734741,took the stairs
+30,b_exp, discussing,6,7.216279029846191,took the stairs
+30,b_exp, New,7,8.579809188842773,took the stairs
+30,b_exp, Year's,8,3.7823367454111576,took the stairs
+30,b_exp, resolutions,9,1.3925954103469849,took the stairs
+30,b_exp,.,10,2.2684428691864014,took the stairs
+30,b_exp, Dylan,11,3.7882838249206543,took the stairs
+30,b_exp, had,12,2.603990077972412,took the stairs
+30,b_exp, decided,13,4.481008529663086,took the stairs
+30,b_exp, to,14,0.5498705506324768,took the stairs
+30,b_exp, be,15,4.550169944763184,took the stairs
+30,b_exp, healthier,16,8.75025749206543,took the stairs
+30,b_exp,.,17,2.016317367553711,took the stairs
+30,b_exp, Therefore,18,7.871371746063232,took the stairs
+30,b_exp,",",19,0.17953716218471527,took the stairs
+30,b_exp, he,20,0.4327652156352997,took the stairs
+30,b_exp, took,21,3.255368232727051,took the stairs
+30,b_exp, the,22,2.479339122772217,took the stairs
+30,b_exp, stairs,23,5.341662883758545,took the stairs
+30,b_exp, to,24,1.4393259286880493,took the stairs
+30,b_exp, his,25,1.3343687057495117,took the stairs
+30,b_exp, office,26,2.615452527999878,took the stairs
+30,b_exp,.,27,1.4799644947052002,took the stairs
+30,b_imp,Dylan,1,18.909181898043087,took the stairs
+30,b_imp, and,2,4.207118511199951,took the stairs
+30,b_imp, his,3,3.0434741973876953,took the stairs
+30,b_imp, colleagues,4,4.600276947021484,took the stairs
+30,b_imp, were,5,2.977952718734741,took the stairs
+30,b_imp, discussing,6,7.216279029846191,took the stairs
+30,b_imp, New,7,8.579809188842773,took the stairs
+30,b_imp, Year's,8,3.7823367454111576,took the stairs
+30,b_imp, resolutions,9,1.3925954103469849,took the stairs
+30,b_imp,.,10,2.2684428691864014,took the stairs
+30,b_imp, Dylan,11,3.7882838249206543,took the stairs
+30,b_imp, had,12,2.603990077972412,took the stairs
+30,b_imp, decided,13,4.481008529663086,took the stairs
+30,b_imp, to,14,0.5498705506324768,took the stairs
+30,b_imp, be,15,4.550169944763184,took the stairs
+30,b_imp, healthier,16,8.75025749206543,took the stairs
+30,b_imp,.,17,2.016317367553711,took the stairs
+30,b_imp, He,18,1.3088105916976929,took the stairs
+30,b_imp, took,19,4.177212715148926,took the stairs
+30,b_imp, the,20,2.7034530639648438,took the stairs
+30,b_imp, stairs,21,4.96900749206543,took the stairs
+30,b_imp, to,22,1.4403934478759766,took the stairs
+30,b_imp, his,23,1.2425496578216553,took the stairs
+30,b_imp, office,24,2.4200856685638428,took the stairs
+30,b_imp,.,25,1.8618100881576538,took the stairs
+31,a_exp,Tyler,1,12.594680636571915,arrived early
+31,a_exp, was,2,5.002701759338379,arrived early
+31,a_exp, flying,3,7.632378578186035,arrived early
+31,a_exp, to,4,2.6952452659606934,arrived early
+31,a_exp, Miami,5,4.876906394958496,arrived early
+31,a_exp, this,6,3.833498001098633,arrived early
+31,a_exp, evening,7,4.91913366317749,arrived early
+31,a_exp,.,8,2.1846587657928467,arrived early
+31,a_exp, He,9,1.6465814113616943,arrived early
+31,a_exp, left,10,5.463210105895996,arrived early
+31,a_exp, for,11,3.506037712097168,arrived early
+31,a_exp, the,12,2.1984987258911133,arrived early
+31,a_exp, airport,13,1.3469412326812744,arrived early
+31,a_exp, in,14,2.56101655960083,arrived early
+31,a_exp, the,15,2.551553726196289,arrived early
+31,a_exp, morning,16,1.6324543952941895,arrived early
+31,a_exp,.,17,1.763243556022644,arrived early
+31,a_exp, Therefore,18,11.222667694091797,arrived early
+31,a_exp,",",19,0.35321640968322754,arrived early
+31,a_exp, he,20,1.651254415512085,arrived early
+31,a_exp, arrived,21,5.177099704742432,arrived early
+31,a_exp, early,22,3.7301478385925293,arrived early
+31,a_exp, for,23,2.859039068222046,arrived early
+31,a_exp, his,24,1.775809407234192,arrived early
+31,a_exp, flight,25,0.5533267259597778,arrived early
+31,a_exp,.,26,1.3083820343017578,arrived early
+31,a_imp,Tyler,1,12.594680636571915,arrived early
+31,a_imp, was,2,5.002701759338379,arrived early
+31,a_imp, flying,3,7.632378578186035,arrived early
+31,a_imp, to,4,2.6952452659606934,arrived early
+31,a_imp, Miami,5,4.876906394958496,arrived early
+31,a_imp, this,6,3.833498001098633,arrived early
+31,a_imp, evening,7,4.91913366317749,arrived early
+31,a_imp,.,8,2.1846587657928467,arrived early
+31,a_imp, He,9,1.6465814113616943,arrived early
+31,a_imp, left,10,5.463210105895996,arrived early
+31,a_imp, for,11,3.506037712097168,arrived early
+31,a_imp, the,12,2.1984987258911133,arrived early
+31,a_imp, airport,13,1.3469412326812744,arrived early
+31,a_imp, in,14,2.56101655960083,arrived early
+31,a_imp, the,15,2.551553726196289,arrived early
+31,a_imp, morning,16,1.6324543952941895,arrived early
+31,a_imp,.,17,1.763243556022644,arrived early
+31,a_imp, He,18,1.9491462707519531,arrived early
+31,a_imp, arrived,19,4.316732883453369,arrived early
+31,a_imp, early,20,4.226648807525635,arrived early
+31,a_imp, for,21,3.076443672180176,arrived early
+31,a_imp, his,22,1.600221872329712,arrived early
+31,a_imp, flight,23,0.6669371724128723,arrived early
+31,a_imp,.,24,2.0263748168945312,arrived early
+31,b_exp,Tyler,1,12.594680636571915,arrived early
+31,b_exp, was,2,5.002701759338379,arrived early
+31,b_exp, flying,3,7.632378578186035,arrived early
+31,b_exp, to,4,2.6952452659606934,arrived early
+31,b_exp, Miami,5,4.876906394958496,arrived early
+31,b_exp, this,6,3.833498001098633,arrived early
+31,b_exp, evening,7,4.91913366317749,arrived early
+31,b_exp,.,8,2.1846587657928467,arrived early
+31,b_exp, He,9,1.6465814113616943,arrived early
+31,b_exp, asked,10,6.10880184173584,arrived early
+31,b_exp, the,11,2.642211675643921,arrived early
+31,b_exp, cab,12,9.008227348327637,arrived early
+31,b_exp, driver,13,0.4707252085208893,arrived early
+31,b_exp, to,14,1.7913655042648315,arrived early
+31,b_exp, hurry,15,6.2626447677612305,arrived early
+31,b_exp, up,16,1.0855963230133057,arrived early
+31,b_exp,.,17,2.66835355758667,arrived early
+31,b_exp, Therefore,18,10.755220413208008,arrived early
+31,b_exp,",",19,0.33448413014411926,arrived early
+31,b_exp, he,20,1.2047691345214844,arrived early
+31,b_exp, arrived,21,5.755440711975098,arrived early
+31,b_exp, early,22,3.8876495361328125,arrived early
+31,b_exp, for,23,3.300078868865967,arrived early
+31,b_exp, his,24,1.8756991624832153,arrived early
+31,b_exp, flight,25,0.8309763669967651,arrived early
+31,b_exp,.,26,1.0303356647491455,arrived early
+31,b_imp,Tyler,1,12.594680636571915,arrived early
+31,b_imp, was,2,5.002701759338379,arrived early
+31,b_imp, flying,3,7.632378578186035,arrived early
+31,b_imp, to,4,2.6952452659606934,arrived early
+31,b_imp, Miami,5,4.876906394958496,arrived early
+31,b_imp, this,6,3.833498001098633,arrived early
+31,b_imp, evening,7,4.91913366317749,arrived early
+31,b_imp,.,8,2.1846587657928467,arrived early
+31,b_imp, He,9,1.6465814113616943,arrived early
+31,b_imp, asked,10,6.10880184173584,arrived early
+31,b_imp, the,11,2.642211675643921,arrived early
+31,b_imp, cab,12,9.008227348327637,arrived early
+31,b_imp, driver,13,0.4707252085208893,arrived early
+31,b_imp, to,14,1.7913655042648315,arrived early
+31,b_imp, hurry,15,6.2626447677612305,arrived early
+31,b_imp, up,16,1.0855963230133057,arrived early
+31,b_imp,.,17,2.66835355758667,arrived early
+31,b_imp, He,18,2.2804017066955566,arrived early
+31,b_imp, arrived,19,5.749211311340332,arrived early
+31,b_imp, early,20,4.030955791473389,arrived early
+31,b_imp, for,21,3.5188827514648438,arrived early
+31,b_imp, his,22,1.830084204673767,arrived early
+31,b_imp, flight,23,0.82839435338974,arrived early
+31,b_imp,.,24,1.635959506034851,arrived early
+34,a_exp,Marvin's,1,24.178655166778547,took up French classes
+34,a_exp, boss,2,7.227326393127441,took up French classes
+34,a_exp, had,3,4.327090263366699,took up French classes
+34,a_exp, appointed,4,8.16276741027832,took up French classes
+34,a_exp, him,5,2.000242233276367,took up French classes
+34,a_exp, to,6,1.505152940750122,took up French classes
+34,a_exp, oversee,7,4.648246765136719,took up French classes
+34,a_exp, their,8,5.085387229919434,took up French classes
+34,a_exp, company's,9,7.198874235153198,took up French classes
+34,a_exp, expansion,10,4.426522254943848,took up French classes
+34,a_exp, in,11,2.1552011966705322,took up French classes
+34,a_exp, France,12,7.221885681152344,took up French classes
+34,a_exp,.,13,1.1053645610809326,took up French classes
+34,a_exp, Marvin,14,6.539534568786621,took up French classes
+34,a_exp, did,15,5.3683881759643555,took up French classes
+34,a_exp, not,16,0.3352367877960205,took up French classes
+34,a_exp, speak,17,4.6518144607543945,took up French classes
+34,a_exp, the,18,5.16821813583374,took up French classes
+34,a_exp, language,19,1.3651539087295532,took up French classes
+34,a_exp,.,20,2.235520362854004,took up French classes
+34,a_exp, Therefore,21,8.393730163574219,took up French classes
+34,a_exp,",",22,0.26464512944221497,took up French classes
+34,a_exp, he,23,1.3420151472091675,took up French classes
+34,a_exp, took,24,4.732635021209717,took up French classes
+34,a_exp, up,25,3.8726749420166016,took up French classes
+34,a_exp, French,26,7.213551044464111,took up French classes
+34,a_exp, classes,27,6.453276634216309,took up French classes
+34,a_exp, at,28,1.1416692733764648,took up French classes
+34,a_exp, the,29,1.350279688835144,took up French classes
+34,a_exp, university,30,2.8494114875793457,took up French classes
+34,a_exp,.,31,1.3688329458236694,took up French classes
+34,a_imp,Marvin's,1,24.178655166778547,took up French classes
+34,a_imp, boss,2,7.227326393127441,took up French classes
+34,a_imp, had,3,4.327090263366699,took up French classes
+34,a_imp, appointed,4,8.16276741027832,took up French classes
+34,a_imp, him,5,2.000242233276367,took up French classes
+34,a_imp, to,6,1.505152940750122,took up French classes
+34,a_imp, oversee,7,4.648246765136719,took up French classes
+34,a_imp, their,8,5.085387229919434,took up French classes
+34,a_imp, company's,9,7.198874235153198,took up French classes
+34,a_imp, expansion,10,4.426522254943848,took up French classes
+34,a_imp, in,11,2.1552011966705322,took up French classes
+34,a_imp, France,12,7.221885681152344,took up French classes
+34,a_imp,.,13,1.1053645610809326,took up French classes
+34,a_imp, Marvin,14,6.539534568786621,took up French classes
+34,a_imp, did,15,5.3683881759643555,took up French classes
+34,a_imp, not,16,0.3352367877960205,took up French classes
+34,a_imp, speak,17,4.6518144607543945,took up French classes
+34,a_imp, the,18,5.16821813583374,took up French classes
+34,a_imp, language,19,1.3651539087295532,took up French classes
+34,a_imp,.,20,2.235520362854004,took up French classes
+34,a_imp, He,21,2.015693187713623,took up French classes
+34,a_imp, took,22,5.0596771240234375,took up French classes
+34,a_imp, up,23,3.90794038772583,took up French classes
+34,a_imp, French,24,6.3630475997924805,took up French classes
+34,a_imp, classes,25,6.3754167556762695,took up French classes
+34,a_imp, at,26,1.0669060945510864,took up French classes
+34,a_imp, the,27,1.3417537212371826,took up French classes
+34,a_imp, university,28,2.7835495471954346,took up French classes
+34,a_imp,.,29,1.8730953931808472,took up French classes
+34,b_exp,Marvin's,1,24.178655166778547,took up French classes
+34,b_exp, boss,2,7.227326393127441,took up French classes
+34,b_exp, had,3,4.327090263366699,took up French classes
+34,b_exp, appointed,4,8.16276741027832,took up French classes
+34,b_exp, him,5,2.000242233276367,took up French classes
+34,b_exp, to,6,1.505152940750122,took up French classes
+34,b_exp, oversee,7,4.648246765136719,took up French classes
+34,b_exp, their,8,5.085387229919434,took up French classes
+34,b_exp, company's,9,7.198874235153198,took up French classes
+34,b_exp, expansion,10,4.426522254943848,took up French classes
+34,b_exp, in,11,2.1552011966705322,took up French classes
+34,b_exp, France,12,7.221885681152344,took up French classes
+34,b_exp,.,13,1.1053645610809326,took up French classes
+34,b_exp, Marvin,14,6.539534568786621,took up French classes
+34,b_exp, was,15,2.01916766166687,took up French classes
+34,b_exp, moving,16,7.066694259643555,took up French classes
+34,b_exp, there,17,5.608034133911133,took up French classes
+34,b_exp, next,18,7.116520404815674,took up French classes
+34,b_exp, year,19,1.017918348312378,took up French classes
+34,b_exp,.,20,2.198805332183838,took up French classes
+34,b_exp, Therefore,21,9.075361251831055,took up French classes
+34,b_exp,",",22,0.18557964265346527,took up French classes
+34,b_exp, he,23,1.4725828170776367,took up French classes
+34,b_exp, took,24,4.470129013061523,took up French classes
+34,b_exp, up,25,3.932675838470459,took up French classes
+34,b_exp, French,26,8.803802490234375,took up French classes
+34,b_exp, classes,27,8.240070343017578,took up French classes
+34,b_exp, at,28,1.3643136024475098,took up French classes
+34,b_exp, the,29,1.3203468322753906,took up French classes
+34,b_exp, university,30,3.0680718421936035,took up French classes
+34,b_exp,.,31,1.399303674697876,took up French classes
+34,b_imp,Marvin's,1,24.178655166778547,took up French classes
+34,b_imp, boss,2,7.227326393127441,took up French classes
+34,b_imp, had,3,4.327090263366699,took up French classes
+34,b_imp, appointed,4,8.16276741027832,took up French classes
+34,b_imp, him,5,2.000242233276367,took up French classes
+34,b_imp, to,6,1.505152940750122,took up French classes
+34,b_imp, oversee,7,4.648246765136719,took up French classes
+34,b_imp, their,8,5.085387229919434,took up French classes
+34,b_imp, company's,9,7.198874235153198,took up French classes
+34,b_imp, expansion,10,4.426522254943848,took up French classes
+34,b_imp, in,11,2.1552011966705322,took up French classes
+34,b_imp, France,12,7.221885681152344,took up French classes
+34,b_imp,.,13,1.1053645610809326,took up French classes
+34,b_imp, Marvin,14,6.539534568786621,took up French classes
+34,b_imp, was,15,2.01916766166687,took up French classes
+34,b_imp, moving,16,7.066694259643555,took up French classes
+34,b_imp, there,17,5.608034133911133,took up French classes
+34,b_imp, next,18,7.116520404815674,took up French classes
+34,b_imp, year,19,1.017918348312378,took up French classes
+34,b_imp,.,20,2.198805332183838,took up French classes
+34,b_imp, He,21,2.4079418182373047,took up French classes
+34,b_imp, took,22,4.91867208480835,took up French classes
+34,b_imp, up,23,4.33325719833374,took up French classes
+34,b_imp, French,24,8.424880981445312,took up French classes
+34,b_imp, classes,25,7.653620719909668,took up French classes
+34,b_imp, at,26,1.1794941425323486,took up French classes
+34,b_imp, the,27,1.2746986150741577,took up French classes
+34,b_imp, university,28,3.079014778137207,took up French classes
+34,b_imp,.,29,2.201197624206543,took up French classes
+38,a_exp,Vicky,1,18.675423709549136,took a shower
+38,a_exp, had,2,5.6135783195495605,took a shower
+38,a_exp, been,3,2.2639949321746826,took a shower
+38,a_exp, redecorating,4,14.292175102978945,took a shower
+38,a_exp, her,5,1.7648180723190308,took a shower
+38,a_exp, room,6,3.066220998764038,took a shower
+38,a_exp, all,7,5.117164611816406,took a shower
+38,a_exp, day,8,0.9975736141204834,took a shower
+38,a_exp,.,9,1.5126047134399414,took a shower
+38,a_exp, She,10,1.6289007663726807,took a shower
+38,a_exp, felt,11,4.823505401611328,took a shower
+38,a_exp, very,12,4.331510543823242,took a shower
+38,a_exp, sweaty,13,7.97854471206665,took a shower
+38,a_exp, all,14,5.144658088684082,took a shower
+38,a_exp, over,15,0.6939286589622498,took a shower
+38,a_exp,.,16,1.386080265045166,took a shower
+38,a_exp, Therefore,17,10.139962196350098,took a shower
+38,a_exp,",",18,0.3716067373752594,took a shower
+38,a_exp, she,19,0.5446121692657471,took a shower
+38,a_exp, took,20,3.678513526916504,took a shower
+38,a_exp, a,21,1.3480979204177856,took a shower
+38,a_exp, shower,22,2.3514809608459473,took a shower
+38,a_exp, at,23,4.616675853729248,took a shower
+38,a_exp, six,24,5.961533069610596,took a shower
+38,a_exp, thirty,25,6.250001430511475,took a shower
+38,a_exp,.,26,1.4846382141113281,took a shower
+38,a_imp,Vicky,1,18.675423709549136,took a shower
+38,a_imp, had,2,5.6135783195495605,took a shower
+38,a_imp, been,3,2.2639949321746826,took a shower
+38,a_imp, redecorating,4,14.292175102978945,took a shower
+38,a_imp, her,5,1.7648180723190308,took a shower
+38,a_imp, room,6,3.066220998764038,took a shower
+38,a_imp, all,7,5.117164611816406,took a shower
+38,a_imp, day,8,0.9975736141204834,took a shower
+38,a_imp,.,9,1.5126047134399414,took a shower
+38,a_imp, She,10,1.6289007663726807,took a shower
+38,a_imp, felt,11,4.823505401611328,took a shower
+38,a_imp, very,12,4.331510543823242,took a shower
+38,a_imp, sweaty,13,7.97854471206665,took a shower
+38,a_imp, all,14,5.144658088684082,took a shower
+38,a_imp, over,15,0.6939286589622498,took a shower
+38,a_imp,.,16,1.386080265045166,took a shower
+38,a_imp, She,17,1.4995205402374268,took a shower
+38,a_imp, took,18,4.546871185302734,took a shower
+38,a_imp, a,19,0.9467012882232666,took a shower
+38,a_imp, shower,20,3.43654727935791,took a shower
+38,a_imp, at,21,4.752564907073975,took a shower
+38,a_imp, six,22,5.598344326019287,took a shower
+38,a_imp, thirty,23,6.667229175567627,took a shower
+38,a_imp,.,24,1.85103440284729,took a shower
+38,b_exp,Vicky,1,18.675423709549136,took a shower
+38,b_exp, had,2,5.6135783195495605,took a shower
+38,b_exp, been,3,2.2639949321746826,took a shower
+38,b_exp, redecorating,4,14.292175102978945,took a shower
+38,b_exp, her,5,1.7648180723190308,took a shower
+38,b_exp, room,6,3.066220998764038,took a shower
+38,b_exp, in,7,2.943977117538452,took a shower
+38,b_exp, the,8,1.253721833229065,took a shower
+38,b_exp, afternoon,9,4.741095542907715,took a shower
+38,b_exp,.,10,1.6851811408996582,took a shower
+38,b_exp, She,11,1.6869643926620483,took a shower
+38,b_exp, had,12,1.6894633769989014,took a shower
+38,b_exp, a,13,3.209890365600586,took a shower
+38,b_exp, dinner,14,8.493000030517578,took a shower
+38,b_exp, date,15,2.4418208599090576,took a shower
+38,b_exp, in,16,2.716627359390259,took a shower
+38,b_exp, the,17,0.899771511554718,took a shower
+38,b_exp, evening,18,1.8844108581542969,took a shower
+38,b_exp,.,19,1.5056142807006836,took a shower
+38,b_exp, Therefore,20,10.722887992858887,took a shower
+38,b_exp,",",21,0.23656220734119415,took a shower
+38,b_exp, she,22,0.8860832452774048,took a shower
+38,b_exp, took,23,4.625372409820557,took a shower
+38,b_exp, a,24,1.9343109130859375,took a shower
+38,b_exp, shower,25,2.8685810565948486,took a shower
+38,b_exp, at,26,3.5150628089904785,took a shower
+38,b_exp, six,27,5.446293830871582,took a shower
+38,b_exp, thirty,28,6.378148078918457,took a shower
+38,b_exp,.,29,1.601945400238037,took a shower
+38,b_imp,Vicky,1,18.675423709549136,took a shower
+38,b_imp, had,2,5.6135783195495605,took a shower
+38,b_imp, been,3,2.2639949321746826,took a shower
+38,b_imp, redecorating,4,14.292175102978945,took a shower
+38,b_imp, her,5,1.7648180723190308,took a shower
+38,b_imp, room,6,3.066220998764038,took a shower
+38,b_imp, in,7,2.943977117538452,took a shower
+38,b_imp, the,8,1.253721833229065,took a shower
+38,b_imp, afternoon,9,4.741095542907715,took a shower
+38,b_imp,.,10,1.6851811408996582,took a shower
+38,b_imp, She,11,1.6869643926620483,took a shower
+38,b_imp, had,12,1.6894633769989014,took a shower
+38,b_imp, a,13,3.209890365600586,took a shower
+38,b_imp, dinner,14,8.493000030517578,took a shower
+38,b_imp, date,15,2.4418208599090576,took a shower
+38,b_imp, in,16,2.716627359390259,took a shower
+38,b_imp, the,17,0.899771511554718,took a shower
+38,b_imp, evening,18,1.8844108581542969,took a shower
+38,b_imp,.,19,1.5056142807006836,took a shower
+38,b_imp, She,20,1.7395044565200806,took a shower
+38,b_imp, took,21,5.25837516784668,took a shower
+38,b_imp, a,22,1.6267542839050293,took a shower
+38,b_imp, shower,23,2.3808321952819824,took a shower
+38,b_imp, at,24,3.3536853790283203,took a shower
+38,b_imp, six,25,5.264387607574463,took a shower
+38,b_imp, thirty,26,6.774990081787109,took a shower
+38,b_imp,.,27,1.6513793468475342,took a shower
+39,a_exp,Linda,1,18.38164147535724,started to worry
+39,a_exp, was,2,3.7409191131591797,started to worry
+39,a_exp, traveling,3,7.592877388000488,started to worry
+39,a_exp, solo,4,7.949034690856934,started to worry
+39,a_exp, through,5,4.374283790588379,started to worry
+39,a_exp, South,6,4.694652557373047,started to worry
+39,a_exp, America,7,1.5261989831924438,started to worry
+39,a_exp,.,8,2.335784912109375,started to worry
+39,a_exp, She,9,1.4996167421340942,started to worry
+39,a_exp, hadn't,10,5.87706847966183,started to worry
+39,a_exp, contacted,11,7.440057754516602,started to worry
+39,a_exp, her,12,1.6084142923355103,started to worry
+39,a_exp, dad,13,4.59745454788208,started to worry
+39,a_exp, in,14,2.785531520843506,started to worry
+39,a_exp, days,15,5.186076641082764,started to worry
+39,a_exp,.,16,1.2656580209732056,started to worry
+39,a_exp, Therefore,17,9.57194709777832,started to worry
+39,a_exp,",",18,0.22255247831344604,started to worry
+39,a_exp, he,19,2.845796585083008,started to worry
+39,a_exp, started,20,6.473205089569092,started to worry
+39,a_exp, to,21,1.6806389093399048,started to worry
+39,a_exp, worry,22,3.161824941635132,started to worry
+39,a_exp, about,23,1.0970932245254517,started to worry
+39,a_exp, her,24,0.792241632938385,started to worry
+39,a_exp,.,25,0.988251268863678,started to worry
+39,a_imp,Linda,1,18.38164147535724,started to worry
+39,a_imp, was,2,3.7409191131591797,started to worry
+39,a_imp, traveling,3,7.592877388000488,started to worry
+39,a_imp, solo,4,7.949034690856934,started to worry
+39,a_imp, through,5,4.374283790588379,started to worry
+39,a_imp, South,6,4.694652557373047,started to worry
+39,a_imp, America,7,1.5261989831924438,started to worry
+39,a_imp,.,8,2.335784912109375,started to worry
+39,a_imp, She,9,1.4996167421340942,started to worry
+39,a_imp, hadn't,10,5.87706847966183,started to worry
+39,a_imp, contacted,11,7.440057754516602,started to worry
+39,a_imp, her,12,1.6084142923355103,started to worry
+39,a_imp, dad,13,4.59745454788208,started to worry
+39,a_imp, in,14,2.785531520843506,started to worry
+39,a_imp, days,15,5.186076641082764,started to worry
+39,a_imp,.,16,1.2656580209732056,started to worry
+39,a_imp, He,17,3.062410354614258,started to worry
+39,a_imp, started,18,6.795966148376465,started to worry
+39,a_imp, to,19,2.001227617263794,started to worry
+39,a_imp, worry,20,3.0372912883758545,started to worry
+39,a_imp, about,21,1.2703548669815063,started to worry
+39,a_imp, her,22,0.6505722999572754,started to worry
+39,a_imp,.,23,1.3944933414459229,started to worry
+39,b_exp,Linda's,1,21.57434281507892,started to worry
+39,b_exp, dad,2,5.980912208557129,started to worry
+39,b_exp, had,3,3.444551467895508,started to worry
+39,b_exp, been,4,1.8863482475280762,started to worry
+39,b_exp, trying,5,4.5770111083984375,started to worry
+39,b_exp, to,6,0.10158903151750565,started to worry
+39,b_exp, call,7,5.198193550109863,started to worry
+39,b_exp, her,8,1.3143390417099,started to worry
+39,b_exp,.,9,4.650099277496338,started to worry
+39,b_exp, She,10,2.114499092102051,started to worry
+39,b_exp, had,11,2.3790159225463867,started to worry
+39,b_exp, been,12,1.6781227588653564,started to worry
+39,b_exp, ignoring,13,8.314069747924805,started to worry
+39,b_exp, him,14,0.6204855442047119,started to worry
+39,b_exp,.,15,1.9782503843307495,started to worry
+39,b_exp, Therefore,16,10.369621276855469,started to worry
+39,b_exp,",",17,0.31882983446121216,started to worry
+39,b_exp, he,18,1.562416434288025,started to worry
+39,b_exp, started,19,5.112271308898926,started to worry
+39,b_exp, to,20,1.4391975402832031,started to worry
+39,b_exp, worry,21,4.8519392013549805,started to worry
+39,b_exp, about,22,1.3862025737762451,started to worry
+39,b_exp, her,23,0.7816612124443054,started to worry
+39,b_exp,.,24,0.8181994557380676,started to worry
+39,b_imp,Linda's,1,21.57434281507892,started to worry
+39,b_imp, dad,2,5.980912208557129,started to worry
+39,b_imp, had,3,3.444551467895508,started to worry
+39,b_imp, been,4,1.8863482475280762,started to worry
+39,b_imp, trying,5,4.5770111083984375,started to worry
+39,b_imp, to,6,0.10158903151750565,started to worry
+39,b_imp, call,7,5.198193550109863,started to worry
+39,b_imp, her,8,1.3143390417099,started to worry
+39,b_imp,.,9,4.650099277496338,started to worry
+39,b_imp, She,10,2.114499092102051,started to worry
+39,b_imp, had,11,2.3790159225463867,started to worry
+39,b_imp, been,12,1.6781227588653564,started to worry
+39,b_imp, ignoring,13,8.314069747924805,started to worry
+39,b_imp, him,14,0.6204855442047119,started to worry
+39,b_imp,.,15,1.9782503843307495,started to worry
+39,b_imp, He,16,1.8681156635284424,started to worry
+39,b_imp, started,17,6.2936625480651855,started to worry
+39,b_imp, to,18,1.577767014503479,started to worry
+39,b_imp, worry,19,5.194880962371826,started to worry
+39,b_imp, about,20,1.6093772649765015,started to worry
+39,b_imp, her,21,0.7286761999130249,started to worry
+39,b_imp,.,22,1.3347034454345703,started to worry
+40,a_exp,Greg,1,12.639937228160036,took a painkiller
+40,a_exp, had,2,6.115635871887207,took a painkiller
+40,a_exp, a,3,2.3017361164093018,took a painkiller
+40,a_exp, long,4,4.713415145874023,took a painkiller
+40,a_exp, day,5,4.314578056335449,took a painkiller
+40,a_exp, at,6,2.99318265914917,took a painkiller
+40,a_exp, the,7,2.0297608375549316,took a painkiller
+40,a_exp, office,8,1.5364266633987427,took a painkiller
+40,a_exp,.,9,1.2074965238571167,took a painkiller
+40,a_exp, He,10,1.5923614501953125,took a painkiller
+40,a_exp, felt,11,5.38372802734375,took a painkiller
+40,a_exp, a,12,3.064044952392578,took a painkiller
+40,a_exp, headache,13,6.301933288574219,took a painkiller
+40,a_exp, coming,14,3.610809803009033,took a painkiller
+40,a_exp, up,15,2.0745303630828857,took a painkiller
+40,a_exp,.,16,2.5591137409210205,took a painkiller
+40,a_exp, Therefore,17,10.740467071533203,took a painkiller
+40,a_exp,",",18,0.4668944478034973,took a painkiller
+40,a_exp, he,19,0.42050594091415405,took a painkiller
+40,a_exp, took,20,3.1262402534484863,took a painkiller
+40,a_exp, a,21,1.2413268089294434,took a painkiller
+40,a_exp, painkiller,22,8.583949208259583,took a painkiller
+40,a_exp, as,23,5.081284999847412,took a painkiller
+40,a_exp, a,24,1.3809655904769897,took a painkiller
+40,a_exp, precaution,25,2.516477108001709,took a painkiller
+40,a_exp,.,26,0.40886980295181274,took a painkiller
+40,a_imp,Greg,1,12.639937228160036,took a painkiller
+40,a_imp, had,2,6.115635871887207,took a painkiller
+40,a_imp, a,3,2.3017361164093018,took a painkiller
+40,a_imp, long,4,4.713415145874023,took a painkiller
+40,a_imp, day,5,4.314578056335449,took a painkiller
+40,a_imp, at,6,2.99318265914917,took a painkiller
+40,a_imp, the,7,2.0297608375549316,took a painkiller
+40,a_imp, office,8,1.5364266633987427,took a painkiller
+40,a_imp,.,9,1.2074965238571167,took a painkiller
+40,a_imp, He,10,1.5923614501953125,took a painkiller
+40,a_imp, felt,11,5.38372802734375,took a painkiller
+40,a_imp, a,12,3.064044952392578,took a painkiller
+40,a_imp, headache,13,6.301933288574219,took a painkiller
+40,a_imp, coming,14,3.610809803009033,took a painkiller
+40,a_imp, up,15,2.0745303630828857,took a painkiller
+40,a_imp,.,16,2.5591137409210205,took a painkiller
+40,a_imp, He,17,1.1346014738082886,took a painkiller
+40,a_imp, took,18,4.223773002624512,took a painkiller
+40,a_imp, a,19,0.7215326428413391,took a painkiller
+40,a_imp, painkiller,20,9.119937658309937,took a painkiller
+40,a_imp, as,21,4.994843006134033,took a painkiller
+40,a_imp, a,22,1.766082525253296,took a painkiller
+40,a_imp, precaution,23,3.114811897277832,took a painkiller
+40,a_imp,.,24,0.6328023672103882,took a painkiller
+40,b_exp,Greg,1,12.639937228160036,took a painkiller
+40,b_exp, had,2,6.115635871887207,took a painkiller
+40,b_exp, an,3,4.013970375061035,took a painkiller
+40,b_exp, appointment,4,5.405570983886719,took a painkiller
+40,b_exp, at,5,1.9925482273101807,took a painkiller
+40,b_exp, the,6,1.2320164442062378,took a painkiller
+40,b_exp, dentist,7,7.11994743347168,took a painkiller
+40,b_exp,.,8,2.1704883575439453,took a painkiller
+40,b_exp, He,9,1.744672179222107,took a painkiller
+40,b_exp, would,10,4.492259979248047,took a painkiller
+40,b_exp, have,11,2.4496424198150635,took a painkiller
+40,b_exp, his,12,5.0475239753723145,took a painkiller
+40,b_exp, wisdom,13,9.402649879455566,took a painkiller
+40,b_exp, teeth,14,0.438558965921402,took a painkiller
+40,b_exp, pulled,15,4.1356120109558105,took a painkiller
+40,b_exp,.,16,2.4575021266937256,took a painkiller
+40,b_exp, Therefore,17,8.744486808776855,took a painkiller
+40,b_exp,",",18,0.48807716369628906,took a painkiller
+40,b_exp, he,19,1.3162294626235962,took a painkiller
+40,b_exp, took,20,3.891187906265259,took a painkiller
+40,b_exp, a,21,1.967195749282837,took a painkiller
+40,b_exp, painkiller,22,7.885503590106964,took a painkiller
+40,b_exp, as,23,4.955750465393066,took a painkiller
+40,b_exp, a,24,1.1649982929229736,took a painkiller
+40,b_exp, precaution,25,3.481013536453247,took a painkiller
+40,b_exp,.,26,0.5543666481971741,took a painkiller
+40,b_imp,Greg,1,12.639937228160036,took a painkiller
+40,b_imp, had,2,6.115635871887207,took a painkiller
+40,b_imp, an,3,4.013970375061035,took a painkiller
+40,b_imp, appointment,4,5.405570983886719,took a painkiller
+40,b_imp, at,5,1.9925482273101807,took a painkiller
+40,b_imp, the,6,1.2320164442062378,took a painkiller
+40,b_imp, dentist,7,7.11994743347168,took a painkiller
+40,b_imp,.,8,2.1704883575439453,took a painkiller
+40,b_imp, He,9,1.744672179222107,took a painkiller
+40,b_imp, would,10,4.492259979248047,took a painkiller
+40,b_imp, have,11,2.4496424198150635,took a painkiller
+40,b_imp, his,12,5.0475239753723145,took a painkiller
+40,b_imp, wisdom,13,9.402649879455566,took a painkiller
+40,b_imp, teeth,14,0.438558965921402,took a painkiller
+40,b_imp, pulled,15,4.1356120109558105,took a painkiller
+40,b_imp,.,16,2.4575021266937256,took a painkiller
+40,b_imp, He,17,1.6729841232299805,took a painkiller
+40,b_imp, took,18,5.271216869354248,took a painkiller
+40,b_imp, a,19,1.8997000455856323,took a painkiller
+40,b_imp, painkiller,20,7.767031192779541,took a painkiller
+40,b_imp, as,21,5.049134254455566,took a painkiller
+40,b_imp, a,22,1.2200007438659668,took a painkiller
+40,b_imp, precaution,23,3.5340282917022705,took a painkiller
+40,b_imp,.,24,0.5829731225967407,took a painkiller

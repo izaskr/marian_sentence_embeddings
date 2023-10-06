@@ -3,4 +3,5 @@ torchaudio==2.0.2
 torchvision==0.15.2
 transformers==4.31.0
 sentence-transformers==2.2.2
-
+wordfreq==3.0.3
+pandas==2.1.1
